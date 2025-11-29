@@ -1,3 +1,6 @@
+# misc
+PRE_RELEASE_CHECKLIST.md
+
 # Environment files (contains sensitive data)
 .env
 .env.local
