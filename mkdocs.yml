@@ -1,1 +1,58 @@
-../documentation/projects/chatbot/mkdocs.yml
+site_name: Chatbot
+site_description: Documentation for chatbot
+site_author: Your Name
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.annotate
+    - content.code.copy
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: "!!python/name:pymdownx.superfences.fence_code_format"
+  - pymdownx.tabbed
+  - pymdownx.tasklist
+  - admonition
+  - pymdownx.details
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+plugins:
+  - search
+  - mermaid2
+nav:
+  - Home: index.md
+  - Guides:
+      - Getting Started: guides/getting_started.md
+      - Overview: guides/overview.md
+      - LLM Model Selection: guides/llm_model_selection.md
+      - Vector Database / AI Data Infrastructure: guides/vector_database.md
+      - Sentence Embedding Model / Semantic Search: guides/sentence_embedding_model.md
+      - Quantized Large Language Model for CPU Inference: guides/quantized_large_language_model.md
+      - Request-Augmented Generation (RAG): guides/rag.md
+      - Helper/Example scripts: guides/scripts.md
+      - Generation Optimization: guides/generation_optimization.md
