@@ -1,0 +1,3002 @@
+[
+    {
+        "question": "What is the purpose of a GPU?",
+        "answer": "A GPU accelerates rendering of images and videos.",
+        "context": "GPUs are essential for gaming and AI computations.",
+        "source": "Hardware Basics"
+    },
+    {
+        "question": "What is STEM?",
+        "answer": "STEM stands for Science, Technology, Engineering, and Mathematics.",
+        "context": "It emphasizes technical and analytical skills.",
+        "source": "Academic Fields"
+    },
+    {
+        "question": "How much water should an adult drink daily?",
+        "answer": "About 2-3 liters of water per day.",
+        "context": "Hydration needs vary by activity and climate.",
+        "source": "Health Tips"
+    },
+    {
+        "question": "Who discovered America?",
+        "answer": "Christopher Columbus is credited with discovering America in 1492.",
+        "context": "Though indigenous peoples lived there long before.",
+        "source": "Exploration History"
+    },
+    {
+        "question": "Who was the first President of the United States?",
+        "answer": "George Washington was the first President.",
+        "context": "He served from 1789 to 1797.",
+        "source": "American History"
+    },
+    {
+        "question": "What is a balanced diet?",
+        "answer": "A balanced diet includes carbohydrates, proteins, fats, vitamins, and minerals.",
+        "context": "It promotes overall health and well-being.",
+        "source": "Nutrition"
+    },
+    {
+        "question": "What year did World War II end?",
+        "answer": "World War II ended in 1945.",
+        "context": "The war concluded after the surrender of Japan.",
+        "source": "World History"
+    },
+    {
+        "question": "What is BMI?",
+        "answer": "BMI stands for Body Mass Index, a measure of body fat based on height and weight.",
+        "context": "It helps assess healthy weight range.",
+        "source": "Medical Basics"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "answer": "H2O is the chemical symbol for water.",
+        "context": "Water consists of two hydrogen atoms and one oxygen atom.",
+        "source": "Chemistry Basics"
+    },
+    {
+        "question": "What is STEM?",
+        "answer": "STEM stands for Science, Technology, Engineering, and Mathematics.",
+        "context": "It emphasizes technical and analytical skills.",
+        "source": "Academic Fields"
+    },
+    {
+        "question": "Who discovered America?",
+        "answer": "Christopher Columbus is credited with discovering America in 1492.",
+        "context": "Though indigenous peoples lived there long before.",
+        "source": "Exploration History"
+    },
+    {
+        "question": "What year did World War II end?",
+        "answer": "World War II ended in 1945.",
+        "context": "The war concluded after the surrender of Japan.",
+        "source": "World History"
+    },
+    {
+        "question": "What is a stock?",
+        "answer": "A stock represents ownership in a company.",
+        "context": "Investors buy stocks to gain returns through dividends and price appreciation.",
+        "source": "Investment Guide"
+    },
+    {
+        "question": "What is the purpose of a GPU?",
+        "answer": "A GPU accelerates rendering of images and videos.",
+        "context": "GPUs are essential for gaming and AI computations.",
+        "source": "Hardware Basics"
+    },
+    {
+        "question": "What is cloud computing?",
+        "answer": "Cloud computing delivers services over the internet.",
+        "context": "It includes storage, servers, databases, networking, and software.",
+        "source": "Tech Overview"
+    },
+    {
+        "question": "What is photosynthesis?",
+        "answer": "Photosynthesis is the process by which plants make food using sunlight.",
+        "context": "It converts carbon dioxide and water into glucose and oxygen.",
+        "source": "Biology"
+    },
+    {
+        "question": "What is inflation?",
+        "answer": "Inflation is the rate at which the general level of prices for goods and services rises.",
+        "context": "It reduces purchasing power over time.",
+        "source": "Economic Concepts"
+    },
+    {
+        "question": "What is STEM?",
+        "answer": "STEM stands for Science, Technology, Engineering, and Mathematics.",
+        "context": "It emphasizes technical and analytical skills.",
+        "source": "Academic Fields"
+    },
+    {
+        "question": "What planet is known as the Red Planet?",
+        "answer": "Mars is known as the Red Planet.",
+        "context": "Mars appears red due to iron oxide on its surface.",
+        "source": "Astronomy"
+    },
+    {
+        "question": "What is a stock?",
+        "answer": "A stock represents ownership in a company.",
+        "context": "Investors buy stocks to gain returns through dividends and price appreciation.",
+        "source": "Investment Guide"
+    },
+    {
+        "question": "What is STEM?",
+        "answer": "STEM stands for Science, Technology, Engineering, and Mathematics.",
+        "context": "It emphasizes technical and analytical skills.",
+        "source": "Academic Fields"
+    },
+    {
+        "question": "What is inflation?",
+        "answer": "Inflation is the rate at which the general level of prices for goods and services rises.",
+        "context": "It reduces purchasing power over time.",
+        "source": "Economic Concepts"
+    },
+    {
+        "question": "What does HTTP stand for?",
+        "answer": "HyperText Transfer Protocol.",
+        "context": "HTTP is the foundation of data communication on the web.",
+        "source": "Web Standards"
+    },
+    {
+        "question": "Do you need a visa to visit Japan?",
+        "answer": "Visa requirements depend on nationality.",
+        "context": "Many countries have visa-free agreements with Japan.",
+        "source": "Travel Guide"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "answer": "H2O is the chemical symbol for water.",
+        "context": "Water consists of two hydrogen atoms and one oxygen atom.",
+        "source": "Chemistry Basics"
+    },
+    {
+        "question": "What is photosynthesis?",
+        "answer": "Photosynthesis is the process by which plants make food using sunlight.",
+        "context": "It converts carbon dioxide and water into glucose and oxygen.",
+        "source": "Biology"
+    },
+    {
+        "question": "Who discovered America?",
+        "answer": "Christopher Columbus is credited with discovering America in 1492.",
+        "context": "Though indigenous peoples lived there long before.",
+        "source": "Exploration History"
+    },
+    {
+        "question": "Who was the first President of the United States?",
+        "answer": "George Washington was the first President.",
+        "context": "He served from 1789 to 1797.",
+        "source": "American History"
+    },
+    {
+        "question": "What is e-learning?",
+        "answer": "E-learning refers to education delivered via digital platforms.",
+        "context": "It allows flexible and remote learning opportunities.",
+        "source": "Modern Education"
+    },
+    {
+        "question": "How long should you boil pasta?",
+        "answer": "Boil pasta for 8-12 minutes depending on type.",
+        "context": "Cooking time varies by pasta thickness.",
+        "source": "Pasta Basics"
+    },
+    {
+        "question": "What is the main ingredient in pesto sauce?",
+        "answer": "Basil is the primary ingredient in traditional pesto sauce.",
+        "context": "Pesto originated in Italy and uses fresh basil leaves.",
+        "source": "Italian Cuisine"
+    },
+    {
+        "question": "What is STEM?",
+        "answer": "STEM stands for Science, Technology, Engineering, and Mathematics.",
+        "context": "It emphasizes technical and analytical skills.",
+        "source": "Academic Fields"
+    },
+    {
+        "question": "Who discovered America?",
+        "answer": "Christopher Columbus is credited with discovering America in 1492.",
+        "context": "Though indigenous peoples lived there long before.",
+        "source": "Exploration History"
+    },
+    {
+        "question": "What is the purpose of a GPU?",
+        "answer": "A GPU accelerates rendering of images and videos.",
+        "context": "GPUs are essential for gaming and AI computations.",
+        "source": "Hardware Basics"
+    },
+    {
+        "question": "How do you make a perfect scrambled egg?",
+        "answer": "Whisk eggs with salt and cook on low heat, stirring gently.",
+        "context": "Scrambled eggs are best cooked slowly to retain moisture.",
+        "source": "Cooking Guide"
+    },
+    {
+        "question": "How long should you boil pasta?",
+        "answer": "Boil pasta for 8-12 minutes depending on type.",
+        "context": "Cooking time varies by pasta thickness.",
+        "source": "Pasta Basics"
+    },
+    {
+        "question": "What is BMI?",
+        "answer": "BMI stands for Body Mass Index, a measure of body fat based on height and weight.",
+        "context": "It helps assess healthy weight range.",
+        "source": "Medical Basics"
+    },
+    {
+        "question": "What is a balanced diet?",
+        "answer": "A balanced diet includes carbohydrates, proteins, fats, vitamins, and minerals.",
+        "context": "It promotes overall health and well-being.",
+        "source": "Nutrition"
+    },
+    {
+        "question": "What is a balanced diet?",
+        "answer": "A balanced diet includes carbohydrates, proteins, fats, vitamins, and minerals.",
+        "context": "It promotes overall health and well-being.",
+        "source": "Nutrition"
+    },
+    {
+        "question": "What is inflation?",
+        "answer": "Inflation is the rate at which the general level of prices for goods and services rises.",
+        "context": "It reduces purchasing power over time.",
+        "source": "Economic Concepts"
+    },
+    {
+        "question": "What is inflation?",
+        "answer": "Inflation is the rate at which the general level of prices for goods and services rises.",
+        "context": "It reduces purchasing power over time.",
+        "source": "Economic Concepts"
+    },
+    {
+        "question": "What is compound interest?",
+        "answer": "Compound interest is interest calculated on the initial principal and accumulated interest.",
+        "context": "It accelerates growth of investments over time.",
+        "source": "Finance Basics"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "answer": "H2O is the chemical symbol for water.",
+        "context": "Water consists of two hydrogen atoms and one oxygen atom.",
+        "source": "Chemistry Basics"
+    },
+    {
+        "question": "What does HTTP stand for?",
+        "answer": "HyperText Transfer Protocol.",
+        "context": "HTTP is the foundation of data communication on the web.",
+        "source": "Web Standards"
+    },
+    {
+        "question": "Who discovered America?",
+        "answer": "Christopher Columbus is credited with discovering America in 1492.",
+        "context": "Though indigenous peoples lived there long before.",
+        "source": "Exploration History"
+    },
+    {
+        "question": "Do you need a visa to visit Japan?",
+        "answer": "Visa requirements depend on nationality.",
+        "context": "Many countries have visa-free agreements with Japan.",
+        "source": "Travel Guide"
+    },
+    {
+        "question": "How much water should an adult drink daily?",
+        "answer": "About 2-3 liters of water per day.",
+        "context": "Hydration needs vary by activity and climate.",
+        "source": "Health Tips"
+    },
+    {
+        "question": "What is photosynthesis?",
+        "answer": "Photosynthesis is the process by which plants make food using sunlight.",
+        "context": "It converts carbon dioxide and water into glucose and oxygen.",
+        "source": "Biology"
+    },
+    {
+        "question": "What is lifelong learning?",
+        "answer": "Lifelong learning is the ongoing pursuit of knowledge for personal or professional reasons.",
+        "context": "It enhances skills and adaptability.",
+        "source": "Education Concepts"
+    },
+    {
+        "question": "What is compound interest?",
+        "answer": "Compound interest is interest calculated on the initial principal and accumulated interest.",
+        "context": "It accelerates growth of investments over time.",
+        "source": "Finance Basics"
+    },
+    {
+        "question": "What does HTTP stand for?",
+        "answer": "HyperText Transfer Protocol.",
+        "context": "HTTP is the foundation of data communication on the web.",
+        "source": "Web Standards"
+    },
+    {
+        "question": "What is the best season to visit Italy?",
+        "answer": "Spring and autumn are ideal for visiting Italy.",
+        "context": "These seasons offer pleasant weather and fewer crowds.",
+        "source": "Travel Tips"
+    },
+    {
+        "question": "What is inflation?",
+        "answer": "Inflation is the rate at which the general level of prices for goods and services rises.",
+        "context": "It reduces purchasing power over time.",
+        "source": "Economic Concepts"
+    },
+    {
+        "question": "What is BMI?",
+        "answer": "BMI stands for Body Mass Index, a measure of body fat based on height and weight.",
+        "context": "It helps assess healthy weight range.",
+        "source": "Medical Basics"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "answer": "H2O is the chemical symbol for water.",
+        "context": "Water consists of two hydrogen atoms and one oxygen atom.",
+        "source": "Chemistry Basics"
+    },
+    {
+        "question": "What is STEM?",
+        "answer": "STEM stands for Science, Technology, Engineering, and Mathematics.",
+        "context": "It emphasizes technical and analytical skills.",
+        "source": "Academic Fields"
+    },
+    {
+        "question": "Do you need a visa to visit Japan?",
+        "answer": "Visa requirements depend on nationality.",
+        "context": "Many countries have visa-free agreements with Japan.",
+        "source": "Travel Guide"
+    },
+    {
+        "question": "What year did World War II end?",
+        "answer": "World War II ended in 1945.",
+        "context": "The war concluded after the surrender of Japan.",
+        "source": "World History"
+    },
+    {
+        "question": "What is the capital of France?",
+        "answer": "Paris is the capital of France.",
+        "context": "It is known for the Eiffel Tower and rich culture.",
+        "source": "Geography"
+    },
+    {
+        "question": "What is the capital of France?",
+        "answer": "Paris is the capital of France.",
+        "context": "It is known for the Eiffel Tower and rich culture.",
+        "source": "Geography"
+    },
+    {
+        "question": "What planet is known as the Red Planet?",
+        "answer": "Mars is known as the Red Planet.",
+        "context": "Mars appears red due to iron oxide on its surface.",
+        "source": "Astronomy"
+    },
+    {
+        "question": "What is photosynthesis?",
+        "answer": "Photosynthesis is the process by which plants make food using sunlight.",
+        "context": "It converts carbon dioxide and water into glucose and oxygen.",
+        "source": "Biology"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "answer": "H2O is the chemical symbol for water.",
+        "context": "Water consists of two hydrogen atoms and one oxygen atom.",
+        "source": "Chemistry Basics"
+    },
+    {
+        "question": "What planet is known as the Red Planet?",
+        "answer": "Mars is known as the Red Planet.",
+        "context": "Mars appears red due to iron oxide on its surface.",
+        "source": "Astronomy"
+    },
+    {
+        "question": "Who was the first President of the United States?",
+        "answer": "George Washington was the first President.",
+        "context": "He served from 1789 to 1797.",
+        "source": "American History"
+    },
+    {
+        "question": "What is BMI?",
+        "answer": "BMI stands for Body Mass Index, a measure of body fat based on height and weight.",
+        "context": "It helps assess healthy weight range.",
+        "source": "Medical Basics"
+    },
+    {
+        "question": "What is inflation?",
+        "answer": "Inflation is the rate at which the general level of prices for goods and services rises.",
+        "context": "It reduces purchasing power over time.",
+        "source": "Economic Concepts"
+    },
+    {
+        "question": "What is compound interest?",
+        "answer": "Compound interest is interest calculated on the initial principal and accumulated interest.",
+        "context": "It accelerates growth of investments over time.",
+        "source": "Finance Basics"
+    },
+    {
+        "question": "What is compound interest?",
+        "answer": "Compound interest is interest calculated on the initial principal and accumulated interest.",
+        "context": "It accelerates growth of investments over time.",
+        "source": "Finance Basics"
+    },
+    {
+        "question": "What is e-learning?",
+        "answer": "E-learning refers to education delivered via digital platforms.",
+        "context": "It allows flexible and remote learning opportunities.",
+        "source": "Modern Education"
+    },
+    {
+        "question": "What is a balanced diet?",
+        "answer": "A balanced diet includes carbohydrates, proteins, fats, vitamins, and minerals.",
+        "context": "It promotes overall health and well-being.",
+        "source": "Nutrition"
+    },
+    {
+        "question": "What is the purpose of a GPU?",
+        "answer": "A GPU accelerates rendering of images and videos.",
+        "context": "GPUs are essential for gaming and AI computations.",
+        "source": "Hardware Basics"
+    },
+    {
+        "question": "What is a stock?",
+        "answer": "A stock represents ownership in a company.",
+        "context": "Investors buy stocks to gain returns through dividends and price appreciation.",
+        "source": "Investment Guide"
+    },
+    {
+        "question": "What is the purpose of a GPU?",
+        "answer": "A GPU accelerates rendering of images and videos.",
+        "context": "GPUs are essential for gaming and AI computations.",
+        "source": "Hardware Basics"
+    },
+    {
+        "question": "What does HTTP stand for?",
+        "answer": "HyperText Transfer Protocol.",
+        "context": "HTTP is the foundation of data communication on the web.",
+        "source": "Web Standards"
+    },
+    {
+        "question": "What is e-learning?",
+        "answer": "E-learning refers to education delivered via digital platforms.",
+        "context": "It allows flexible and remote learning opportunities.",
+        "source": "Modern Education"
+    },
+    {
+        "question": "Do you need a visa to visit Japan?",
+        "answer": "Visa requirements depend on nationality.",
+        "context": "Many countries have visa-free agreements with Japan.",
+        "source": "Travel Guide"
+    },
+    {
+        "question": "What planet is known as the Red Planet?",
+        "answer": "Mars is known as the Red Planet.",
+        "context": "Mars appears red due to iron oxide on its surface.",
+        "source": "Astronomy"
+    },
+    {
+        "question": "Do you need a visa to visit Japan?",
+        "answer": "Visa requirements depend on nationality.",
+        "context": "Many countries have visa-free agreements with Japan.",
+        "source": "Travel Guide"
+    },
+    {
+        "question": "What is e-learning?",
+        "answer": "E-learning refers to education delivered via digital platforms.",
+        "context": "It allows flexible and remote learning opportunities.",
+        "source": "Modern Education"
+    },
+    {
+        "question": "How do you make a perfect scrambled egg?",
+        "answer": "Whisk eggs with salt and cook on low heat, stirring gently.",
+        "context": "Scrambled eggs are best cooked slowly to retain moisture.",
+        "source": "Cooking Guide"
+    },
+    {
+        "question": "What is photosynthesis?",
+        "answer": "Photosynthesis is the process by which plants make food using sunlight.",
+        "context": "It converts carbon dioxide and water into glucose and oxygen.",
+        "source": "Biology"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "answer": "H2O is the chemical symbol for water.",
+        "context": "Water consists of two hydrogen atoms and one oxygen atom.",
+        "source": "Chemistry Basics"
+    },
+    {
+        "question": "How much water should an adult drink daily?",
+        "answer": "About 2-3 liters of water per day.",
+        "context": "Hydration needs vary by activity and climate.",
+        "source": "Health Tips"
+    },
+    {
+        "question": "What is photosynthesis?",
+        "answer": "Photosynthesis is the process by which plants make food using sunlight.",
+        "context": "It converts carbon dioxide and water into glucose and oxygen.",
+        "source": "Biology"
+    },
+    {
+        "question": "What is photosynthesis?",
+        "answer": "Photosynthesis is the process by which plants make food using sunlight.",
+        "context": "It converts carbon dioxide and water into glucose and oxygen.",
+        "source": "Biology"
+    },
+    {
+        "question": "What is photosynthesis?",
+        "answer": "Photosynthesis is the process by which plants make food using sunlight.",
+        "context": "It converts carbon dioxide and water into glucose and oxygen.",
+        "source": "Biology"
+    },
+    {
+        "question": "What is inflation?",
+        "answer": "Inflation is the rate at which the general level of prices for goods and services rises.",
+        "context": "It reduces purchasing power over time.",
+        "source": "Economic Concepts"
+    },
+    {
+        "question": "What is photosynthesis?",
+        "answer": "Photosynthesis is the process by which plants make food using sunlight.",
+        "context": "It converts carbon dioxide and water into glucose and oxygen.",
+        "source": "Biology"
+    },
+    {
+        "question": "What does HTTP stand for?",
+        "answer": "HyperText Transfer Protocol.",
+        "context": "HTTP is the foundation of data communication on the web.",
+        "source": "Web Standards"
+    },
+    {
+        "question": "What is a balanced diet?",
+        "answer": "A balanced diet includes carbohydrates, proteins, fats, vitamins, and minerals.",
+        "context": "It promotes overall health and well-being.",
+        "source": "Nutrition"
+    },
+    {
+        "question": "What is compound interest?",
+        "answer": "Compound interest is interest calculated on the initial principal and accumulated interest.",
+        "context": "It accelerates growth of investments over time.",
+        "source": "Finance Basics"
+    },
+    {
+        "question": "Who discovered America?",
+        "answer": "Christopher Columbus is credited with discovering America in 1492.",
+        "context": "Though indigenous peoples lived there long before.",
+        "source": "Exploration History"
+    },
+    {
+        "question": "What is the purpose of a GPU?",
+        "answer": "A GPU accelerates rendering of images and videos.",
+        "context": "GPUs are essential for gaming and AI computations.",
+        "source": "Hardware Basics"
+    },
+    {
+        "question": "What does HTTP stand for?",
+        "answer": "HyperText Transfer Protocol.",
+        "context": "HTTP is the foundation of data communication on the web.",
+        "source": "Web Standards"
+    },
+    {
+        "question": "What is a stock?",
+        "answer": "A stock represents ownership in a company.",
+        "context": "Investors buy stocks to gain returns through dividends and price appreciation.",
+        "source": "Investment Guide"
+    },
+    {
+        "question": "What is the purpose of a GPU?",
+        "answer": "A GPU accelerates rendering of images and videos.",
+        "context": "GPUs are essential for gaming and AI computations.",
+        "source": "Hardware Basics"
+    },
+    {
+        "question": "Do you need a visa to visit Japan?",
+        "answer": "Visa requirements depend on nationality.",
+        "context": "Many countries have visa-free agreements with Japan.",
+        "source": "Travel Guide"
+    },
+    {
+        "question": "What is lifelong learning?",
+        "answer": "Lifelong learning is the ongoing pursuit of knowledge for personal or professional reasons.",
+        "context": "It enhances skills and adaptability.",
+        "source": "Education Concepts"
+    },
+    {
+        "question": "Do you need a visa to visit Japan?",
+        "answer": "Visa requirements depend on nationality.",
+        "context": "Many countries have visa-free agreements with Japan.",
+        "source": "Travel Guide"
+    },
+    {
+        "question": "What year did World War II end?",
+        "answer": "World War II ended in 1945.",
+        "context": "The war concluded after the surrender of Japan.",
+        "source": "World History"
+    },
+    {
+        "question": "Do you need a visa to visit Japan?",
+        "answer": "Visa requirements depend on nationality.",
+        "context": "Many countries have visa-free agreements with Japan.",
+        "source": "Travel Guide"
+    },
+    {
+        "question": "What does HTTP stand for?",
+        "answer": "HyperText Transfer Protocol.",
+        "context": "HTTP is the foundation of data communication on the web.",
+        "source": "Web Standards"
+    },
+    {
+        "question": "What year did World War II end?",
+        "answer": "World War II ended in 1945.",
+        "context": "The war concluded after the surrender of Japan.",
+        "source": "World History"
+    },
+    {
+        "question": "How much water should an adult drink daily?",
+        "answer": "About 2-3 liters of water per day.",
+        "context": "Hydration needs vary by activity and climate.",
+        "source": "Health Tips"
+    },
+    {
+        "question": "What is the main ingredient in pesto sauce?",
+        "answer": "Basil is the primary ingredient in traditional pesto sauce.",
+        "context": "Pesto originated in Italy and uses fresh basil leaves.",
+        "source": "Italian Cuisine"
+    },
+    {
+        "question": "What is the main ingredient in pesto sauce?",
+        "answer": "Basil is the primary ingredient in traditional pesto sauce.",
+        "context": "Pesto originated in Italy and uses fresh basil leaves.",
+        "source": "Italian Cuisine"
+    },
+    {
+        "question": "What is the best season to visit Italy?",
+        "answer": "Spring and autumn are ideal for visiting Italy.",
+        "context": "These seasons offer pleasant weather and fewer crowds.",
+        "source": "Travel Tips"
+    },
+    {
+        "question": "What is BMI?",
+        "answer": "BMI stands for Body Mass Index, a measure of body fat based on height and weight.",
+        "context": "It helps assess healthy weight range.",
+        "source": "Medical Basics"
+    },
+    {
+        "question": "What planet is known as the Red Planet?",
+        "answer": "Mars is known as the Red Planet.",
+        "context": "Mars appears red due to iron oxide on its surface.",
+        "source": "Astronomy"
+    },
+    {
+        "question": "What is lifelong learning?",
+        "answer": "Lifelong learning is the ongoing pursuit of knowledge for personal or professional reasons.",
+        "context": "It enhances skills and adaptability.",
+        "source": "Education Concepts"
+    },
+    {
+        "question": "What is inflation?",
+        "answer": "Inflation is the rate at which the general level of prices for goods and services rises.",
+        "context": "It reduces purchasing power over time.",
+        "source": "Economic Concepts"
+    },
+    {
+        "question": "What is e-learning?",
+        "answer": "E-learning refers to education delivered via digital platforms.",
+        "context": "It allows flexible and remote learning opportunities.",
+        "source": "Modern Education"
+    },
+    {
+        "question": "What is compound interest?",
+        "answer": "Compound interest is interest calculated on the initial principal and accumulated interest.",
+        "context": "It accelerates growth of investments over time.",
+        "source": "Finance Basics"
+    },
+    {
+        "question": "Who was the first President of the United States?",
+        "answer": "George Washington was the first President.",
+        "context": "He served from 1789 to 1797.",
+        "source": "American History"
+    },
+    {
+        "question": "What is photosynthesis?",
+        "answer": "Photosynthesis is the process by which plants make food using sunlight.",
+        "context": "It converts carbon dioxide and water into glucose and oxygen.",
+        "source": "Biology"
+    },
+    {
+        "question": "How do you make a perfect scrambled egg?",
+        "answer": "Whisk eggs with salt and cook on low heat, stirring gently.",
+        "context": "Scrambled eggs are best cooked slowly to retain moisture.",
+        "source": "Cooking Guide"
+    },
+    {
+        "question": "How do you make a perfect scrambled egg?",
+        "answer": "Whisk eggs with salt and cook on low heat, stirring gently.",
+        "context": "Scrambled eggs are best cooked slowly to retain moisture.",
+        "source": "Cooking Guide"
+    },
+    {
+        "question": "What is BMI?",
+        "answer": "BMI stands for Body Mass Index, a measure of body fat based on height and weight.",
+        "context": "It helps assess healthy weight range.",
+        "source": "Medical Basics"
+    },
+    {
+        "question": "How much water should an adult drink daily?",
+        "answer": "About 2-3 liters of water per day.",
+        "context": "Hydration needs vary by activity and climate.",
+        "source": "Health Tips"
+    },
+    {
+        "question": "What is photosynthesis?",
+        "answer": "Photosynthesis is the process by which plants make food using sunlight.",
+        "context": "It converts carbon dioxide and water into glucose and oxygen.",
+        "source": "Biology"
+    },
+    {
+        "question": "What year did World War II end?",
+        "answer": "World War II ended in 1945.",
+        "context": "The war concluded after the surrender of Japan.",
+        "source": "World History"
+    },
+    {
+        "question": "What is a stock?",
+        "answer": "A stock represents ownership in a company.",
+        "context": "Investors buy stocks to gain returns through dividends and price appreciation.",
+        "source": "Investment Guide"
+    },
+    {
+        "question": "Do you need a visa to visit Japan?",
+        "answer": "Visa requirements depend on nationality.",
+        "context": "Many countries have visa-free agreements with Japan.",
+        "source": "Travel Guide"
+    },
+    {
+        "question": "What is a stock?",
+        "answer": "A stock represents ownership in a company.",
+        "context": "Investors buy stocks to gain returns through dividends and price appreciation.",
+        "source": "Investment Guide"
+    },
+    {
+        "question": "What is inflation?",
+        "answer": "Inflation is the rate at which the general level of prices for goods and services rises.",
+        "context": "It reduces purchasing power over time.",
+        "source": "Economic Concepts"
+    },
+    {
+        "question": "What is the best season to visit Italy?",
+        "answer": "Spring and autumn are ideal for visiting Italy.",
+        "context": "These seasons offer pleasant weather and fewer crowds.",
+        "source": "Travel Tips"
+    },
+    {
+        "question": "How much water should an adult drink daily?",
+        "answer": "About 2-3 liters of water per day.",
+        "context": "Hydration needs vary by activity and climate.",
+        "source": "Health Tips"
+    },
+    {
+        "question": "What is compound interest?",
+        "answer": "Compound interest is interest calculated on the initial principal and accumulated interest.",
+        "context": "It accelerates growth of investments over time.",
+        "source": "Finance Basics"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "answer": "H2O is the chemical symbol for water.",
+        "context": "Water consists of two hydrogen atoms and one oxygen atom.",
+        "source": "Chemistry Basics"
+    },
+    {
+        "question": "What is e-learning?",
+        "answer": "E-learning refers to education delivered via digital platforms.",
+        "context": "It allows flexible and remote learning opportunities.",
+        "source": "Modern Education"
+    },
+    {
+        "question": "What is the main ingredient in pesto sauce?",
+        "answer": "Basil is the primary ingredient in traditional pesto sauce.",
+        "context": "Pesto originated in Italy and uses fresh basil leaves.",
+        "source": "Italian Cuisine"
+    },
+    {
+        "question": "What is the purpose of a GPU?",
+        "answer": "A GPU accelerates rendering of images and videos.",
+        "context": "GPUs are essential for gaming and AI computations.",
+        "source": "Hardware Basics"
+    },
+    {
+        "question": "What is e-learning?",
+        "answer": "E-learning refers to education delivered via digital platforms.",
+        "context": "It allows flexible and remote learning opportunities.",
+        "source": "Modern Education"
+    },
+    {
+        "question": "Who was the first President of the United States?",
+        "answer": "George Washington was the first President.",
+        "context": "He served from 1789 to 1797.",
+        "source": "American History"
+    },
+    {
+        "question": "What is photosynthesis?",
+        "answer": "Photosynthesis is the process by which plants make food using sunlight.",
+        "context": "It converts carbon dioxide and water into glucose and oxygen.",
+        "source": "Biology"
+    },
+    {
+        "question": "What is inflation?",
+        "answer": "Inflation is the rate at which the general level of prices for goods and services rises.",
+        "context": "It reduces purchasing power over time.",
+        "source": "Economic Concepts"
+    },
+    {
+        "question": "What year did World War II end?",
+        "answer": "World War II ended in 1945.",
+        "context": "The war concluded after the surrender of Japan.",
+        "source": "World History"
+    },
+    {
+        "question": "What is e-learning?",
+        "answer": "E-learning refers to education delivered via digital platforms.",
+        "context": "It allows flexible and remote learning opportunities.",
+        "source": "Modern Education"
+    },
+    {
+        "question": "What is inflation?",
+        "answer": "Inflation is the rate at which the general level of prices for goods and services rises.",
+        "context": "It reduces purchasing power over time.",
+        "source": "Economic Concepts"
+    },
+    {
+        "question": "What is the main ingredient in pesto sauce?",
+        "answer": "Basil is the primary ingredient in traditional pesto sauce.",
+        "context": "Pesto originated in Italy and uses fresh basil leaves.",
+        "source": "Italian Cuisine"
+    },
+    {
+        "question": "How much water should an adult drink daily?",
+        "answer": "About 2-3 liters of water per day.",
+        "context": "Hydration needs vary by activity and climate.",
+        "source": "Health Tips"
+    },
+    {
+        "question": "What is a balanced diet?",
+        "answer": "A balanced diet includes carbohydrates, proteins, fats, vitamins, and minerals.",
+        "context": "It promotes overall health and well-being.",
+        "source": "Nutrition"
+    },
+    {
+        "question": "What is cloud computing?",
+        "answer": "Cloud computing delivers services over the internet.",
+        "context": "It includes storage, servers, databases, networking, and software.",
+        "source": "Tech Overview"
+    },
+    {
+        "question": "What is a balanced diet?",
+        "answer": "A balanced diet includes carbohydrates, proteins, fats, vitamins, and minerals.",
+        "context": "It promotes overall health and well-being.",
+        "source": "Nutrition"
+    },
+    {
+        "question": "How much water should an adult drink daily?",
+        "answer": "About 2-3 liters of water per day.",
+        "context": "Hydration needs vary by activity and climate.",
+        "source": "Health Tips"
+    },
+    {
+        "question": "Who discovered America?",
+        "answer": "Christopher Columbus is credited with discovering America in 1492.",
+        "context": "Though indigenous peoples lived there long before.",
+        "source": "Exploration History"
+    },
+    {
+        "question": "What planet is known as the Red Planet?",
+        "answer": "Mars is known as the Red Planet.",
+        "context": "Mars appears red due to iron oxide on its surface.",
+        "source": "Astronomy"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "answer": "H2O is the chemical symbol for water.",
+        "context": "Water consists of two hydrogen atoms and one oxygen atom.",
+        "source": "Chemistry Basics"
+    },
+    {
+        "question": "Who discovered America?",
+        "answer": "Christopher Columbus is credited with discovering America in 1492.",
+        "context": "Though indigenous peoples lived there long before.",
+        "source": "Exploration History"
+    },
+    {
+        "question": "Do you need a visa to visit Japan?",
+        "answer": "Visa requirements depend on nationality.",
+        "context": "Many countries have visa-free agreements with Japan.",
+        "source": "Travel Guide"
+    },
+    {
+        "question": "What is photosynthesis?",
+        "answer": "Photosynthesis is the process by which plants make food using sunlight.",
+        "context": "It converts carbon dioxide and water into glucose and oxygen.",
+        "source": "Biology"
+    },
+    {
+        "question": "What is lifelong learning?",
+        "answer": "Lifelong learning is the ongoing pursuit of knowledge for personal or professional reasons.",
+        "context": "It enhances skills and adaptability.",
+        "source": "Education Concepts"
+    },
+    {
+        "question": "What is the capital of France?",
+        "answer": "Paris is the capital of France.",
+        "context": "It is known for the Eiffel Tower and rich culture.",
+        "source": "Geography"
+    },
+    {
+        "question": "How long should you boil pasta?",
+        "answer": "Boil pasta for 8-12 minutes depending on type.",
+        "context": "Cooking time varies by pasta thickness.",
+        "source": "Pasta Basics"
+    },
+    {
+        "question": "How much water should an adult drink daily?",
+        "answer": "About 2-3 liters of water per day.",
+        "context": "Hydration needs vary by activity and climate.",
+        "source": "Health Tips"
+    },
+    {
+        "question": "What is BMI?",
+        "answer": "BMI stands for Body Mass Index, a measure of body fat based on height and weight.",
+        "context": "It helps assess healthy weight range.",
+        "source": "Medical Basics"
+    },
+    {
+        "question": "How do you make a perfect scrambled egg?",
+        "answer": "Whisk eggs with salt and cook on low heat, stirring gently.",
+        "context": "Scrambled eggs are best cooked slowly to retain moisture.",
+        "source": "Cooking Guide"
+    },
+    {
+        "question": "Do you need a visa to visit Japan?",
+        "answer": "Visa requirements depend on nationality.",
+        "context": "Many countries have visa-free agreements with Japan.",
+        "source": "Travel Guide"
+    },
+    {
+        "question": "What is compound interest?",
+        "answer": "Compound interest is interest calculated on the initial principal and accumulated interest.",
+        "context": "It accelerates growth of investments over time.",
+        "source": "Finance Basics"
+    },
+    {
+        "question": "What is photosynthesis?",
+        "answer": "Photosynthesis is the process by which plants make food using sunlight.",
+        "context": "It converts carbon dioxide and water into glucose and oxygen.",
+        "source": "Biology"
+    },
+    {
+        "question": "What is STEM?",
+        "answer": "STEM stands for Science, Technology, Engineering, and Mathematics.",
+        "context": "It emphasizes technical and analytical skills.",
+        "source": "Academic Fields"
+    },
+    {
+        "question": "What is inflation?",
+        "answer": "Inflation is the rate at which the general level of prices for goods and services rises.",
+        "context": "It reduces purchasing power over time.",
+        "source": "Economic Concepts"
+    },
+    {
+        "question": "What is BMI?",
+        "answer": "BMI stands for Body Mass Index, a measure of body fat based on height and weight.",
+        "context": "It helps assess healthy weight range.",
+        "source": "Medical Basics"
+    },
+    {
+        "question": "How long should you boil pasta?",
+        "answer": "Boil pasta for 8-12 minutes depending on type.",
+        "context": "Cooking time varies by pasta thickness.",
+        "source": "Pasta Basics"
+    },
+    {
+        "question": "Do you need a visa to visit Japan?",
+        "answer": "Visa requirements depend on nationality.",
+        "context": "Many countries have visa-free agreements with Japan.",
+        "source": "Travel Guide"
+    },
+    {
+        "question": "What is the best season to visit Italy?",
+        "answer": "Spring and autumn are ideal for visiting Italy.",
+        "context": "These seasons offer pleasant weather and fewer crowds.",
+        "source": "Travel Tips"
+    },
+    {
+        "question": "What is cloud computing?",
+        "answer": "Cloud computing delivers services over the internet.",
+        "context": "It includes storage, servers, databases, networking, and software.",
+        "source": "Tech Overview"
+    },
+    {
+        "question": "What does HTTP stand for?",
+        "answer": "HyperText Transfer Protocol.",
+        "context": "HTTP is the foundation of data communication on the web.",
+        "source": "Web Standards"
+    },
+    {
+        "question": "What is a balanced diet?",
+        "answer": "A balanced diet includes carbohydrates, proteins, fats, vitamins, and minerals.",
+        "context": "It promotes overall health and well-being.",
+        "source": "Nutrition"
+    },
+    {
+        "question": "How much water should an adult drink daily?",
+        "answer": "About 2-3 liters of water per day.",
+        "context": "Hydration needs vary by activity and climate.",
+        "source": "Health Tips"
+    },
+    {
+        "question": "What is inflation?",
+        "answer": "Inflation is the rate at which the general level of prices for goods and services rises.",
+        "context": "It reduces purchasing power over time.",
+        "source": "Economic Concepts"
+    },
+    {
+        "question": "What is cloud computing?",
+        "answer": "Cloud computing delivers services over the internet.",
+        "context": "It includes storage, servers, databases, networking, and software.",
+        "source": "Tech Overview"
+    },
+    {
+        "question": "What year did World War II end?",
+        "answer": "World War II ended in 1945.",
+        "context": "The war concluded after the surrender of Japan.",
+        "source": "World History"
+    },
+    {
+        "question": "What planet is known as the Red Planet?",
+        "answer": "Mars is known as the Red Planet.",
+        "context": "Mars appears red due to iron oxide on its surface.",
+        "source": "Astronomy"
+    },
+    {
+        "question": "What is lifelong learning?",
+        "answer": "Lifelong learning is the ongoing pursuit of knowledge for personal or professional reasons.",
+        "context": "It enhances skills and adaptability.",
+        "source": "Education Concepts"
+    },
+    {
+        "question": "What is STEM?",
+        "answer": "STEM stands for Science, Technology, Engineering, and Mathematics.",
+        "context": "It emphasizes technical and analytical skills.",
+        "source": "Academic Fields"
+    },
+    {
+        "question": "What year did World War II end?",
+        "answer": "World War II ended in 1945.",
+        "context": "The war concluded after the surrender of Japan.",
+        "source": "World History"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "answer": "H2O is the chemical symbol for water.",
+        "context": "Water consists of two hydrogen atoms and one oxygen atom.",
+        "source": "Chemistry Basics"
+    },
+    {
+        "question": "What is cloud computing?",
+        "answer": "Cloud computing delivers services over the internet.",
+        "context": "It includes storage, servers, databases, networking, and software.",
+        "source": "Tech Overview"
+    },
+    {
+        "question": "What is the capital of France?",
+        "answer": "Paris is the capital of France.",
+        "context": "It is known for the Eiffel Tower and rich culture.",
+        "source": "Geography"
+    },
+    {
+        "question": "What is cloud computing?",
+        "answer": "Cloud computing delivers services over the internet.",
+        "context": "It includes storage, servers, databases, networking, and software.",
+        "source": "Tech Overview"
+    },
+    {
+        "question": "How long should you boil pasta?",
+        "answer": "Boil pasta for 8-12 minutes depending on type.",
+        "context": "Cooking time varies by pasta thickness.",
+        "source": "Pasta Basics"
+    },
+    {
+        "question": "What year did World War II end?",
+        "answer": "World War II ended in 1945.",
+        "context": "The war concluded after the surrender of Japan.",
+        "source": "World History"
+    },
+    {
+        "question": "How much water should an adult drink daily?",
+        "answer": "About 2-3 liters of water per day.",
+        "context": "Hydration needs vary by activity and climate.",
+        "source": "Health Tips"
+    },
+    {
+        "question": "What is photosynthesis?",
+        "answer": "Photosynthesis is the process by which plants make food using sunlight.",
+        "context": "It converts carbon dioxide and water into glucose and oxygen.",
+        "source": "Biology"
+    },
+    {
+        "question": "What does HTTP stand for?",
+        "answer": "HyperText Transfer Protocol.",
+        "context": "HTTP is the foundation of data communication on the web.",
+        "source": "Web Standards"
+    },
+    {
+        "question": "What is lifelong learning?",
+        "answer": "Lifelong learning is the ongoing pursuit of knowledge for personal or professional reasons.",
+        "context": "It enhances skills and adaptability.",
+        "source": "Education Concepts"
+    },
+    {
+        "question": "What does HTTP stand for?",
+        "answer": "HyperText Transfer Protocol.",
+        "context": "HTTP is the foundation of data communication on the web.",
+        "source": "Web Standards"
+    },
+    {
+        "question": "What is the best season to visit Italy?",
+        "answer": "Spring and autumn are ideal for visiting Italy.",
+        "context": "These seasons offer pleasant weather and fewer crowds.",
+        "source": "Travel Tips"
+    },
+    {
+        "question": "What is e-learning?",
+        "answer": "E-learning refers to education delivered via digital platforms.",
+        "context": "It allows flexible and remote learning opportunities.",
+        "source": "Modern Education"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "answer": "H2O is the chemical symbol for water.",
+        "context": "Water consists of two hydrogen atoms and one oxygen atom.",
+        "source": "Chemistry Basics"
+    },
+    {
+        "question": "What is lifelong learning?",
+        "answer": "Lifelong learning is the ongoing pursuit of knowledge for personal or professional reasons.",
+        "context": "It enhances skills and adaptability.",
+        "source": "Education Concepts"
+    },
+    {
+        "question": "Who was the first President of the United States?",
+        "answer": "George Washington was the first President.",
+        "context": "He served from 1789 to 1797.",
+        "source": "American History"
+    },
+    {
+        "question": "What is BMI?",
+        "answer": "BMI stands for Body Mass Index, a measure of body fat based on height and weight.",
+        "context": "It helps assess healthy weight range.",
+        "source": "Medical Basics"
+    },
+    {
+        "question": "What planet is known as the Red Planet?",
+        "answer": "Mars is known as the Red Planet.",
+        "context": "Mars appears red due to iron oxide on its surface.",
+        "source": "Astronomy"
+    },
+    {
+        "question": "What is inflation?",
+        "answer": "Inflation is the rate at which the general level of prices for goods and services rises.",
+        "context": "It reduces purchasing power over time.",
+        "source": "Economic Concepts"
+    },
+    {
+        "question": "What year did World War II end?",
+        "answer": "World War II ended in 1945.",
+        "context": "The war concluded after the surrender of Japan.",
+        "source": "World History"
+    },
+    {
+        "question": "What is compound interest?",
+        "answer": "Compound interest is interest calculated on the initial principal and accumulated interest.",
+        "context": "It accelerates growth of investments over time.",
+        "source": "Finance Basics"
+    },
+    {
+        "question": "What is lifelong learning?",
+        "answer": "Lifelong learning is the ongoing pursuit of knowledge for personal or professional reasons.",
+        "context": "It enhances skills and adaptability.",
+        "source": "Education Concepts"
+    },
+    {
+        "question": "What is BMI?",
+        "answer": "BMI stands for Body Mass Index, a measure of body fat based on height and weight.",
+        "context": "It helps assess healthy weight range.",
+        "source": "Medical Basics"
+    },
+    {
+        "question": "How long should you boil pasta?",
+        "answer": "Boil pasta for 8-12 minutes depending on type.",
+        "context": "Cooking time varies by pasta thickness.",
+        "source": "Pasta Basics"
+    },
+    {
+        "question": "What is a stock?",
+        "answer": "A stock represents ownership in a company.",
+        "context": "Investors buy stocks to gain returns through dividends and price appreciation.",
+        "source": "Investment Guide"
+    },
+    {
+        "question": "Who was the first President of the United States?",
+        "answer": "George Washington was the first President.",
+        "context": "He served from 1789 to 1797.",
+        "source": "American History"
+    },
+    {
+        "question": "How long should you boil pasta?",
+        "answer": "Boil pasta for 8-12 minutes depending on type.",
+        "context": "Cooking time varies by pasta thickness.",
+        "source": "Pasta Basics"
+    },
+    {
+        "question": "What is e-learning?",
+        "answer": "E-learning refers to education delivered via digital platforms.",
+        "context": "It allows flexible and remote learning opportunities.",
+        "source": "Modern Education"
+    },
+    {
+        "question": "What year did World War II end?",
+        "answer": "World War II ended in 1945.",
+        "context": "The war concluded after the surrender of Japan.",
+        "source": "World History"
+    },
+    {
+        "question": "Do you need a visa to visit Japan?",
+        "answer": "Visa requirements depend on nationality.",
+        "context": "Many countries have visa-free agreements with Japan.",
+        "source": "Travel Guide"
+    },
+    {
+        "question": "What is compound interest?",
+        "answer": "Compound interest is interest calculated on the initial principal and accumulated interest.",
+        "context": "It accelerates growth of investments over time.",
+        "source": "Finance Basics"
+    },
+    {
+        "question": "What is lifelong learning?",
+        "answer": "Lifelong learning is the ongoing pursuit of knowledge for personal or professional reasons.",
+        "context": "It enhances skills and adaptability.",
+        "source": "Education Concepts"
+    },
+    {
+        "question": "What is e-learning?",
+        "answer": "E-learning refers to education delivered via digital platforms.",
+        "context": "It allows flexible and remote learning opportunities.",
+        "source": "Modern Education"
+    },
+    {
+        "question": "How much water should an adult drink daily?",
+        "answer": "About 2-3 liters of water per day.",
+        "context": "Hydration needs vary by activity and climate.",
+        "source": "Health Tips"
+    },
+    {
+        "question": "What is the best season to visit Italy?",
+        "answer": "Spring and autumn are ideal for visiting Italy.",
+        "context": "These seasons offer pleasant weather and fewer crowds.",
+        "source": "Travel Tips"
+    },
+    {
+        "question": "What is inflation?",
+        "answer": "Inflation is the rate at which the general level of prices for goods and services rises.",
+        "context": "It reduces purchasing power over time.",
+        "source": "Economic Concepts"
+    },
+    {
+        "question": "How much water should an adult drink daily?",
+        "answer": "About 2-3 liters of water per day.",
+        "context": "Hydration needs vary by activity and climate.",
+        "source": "Health Tips"
+    },
+    {
+        "question": "What is cloud computing?",
+        "answer": "Cloud computing delivers services over the internet.",
+        "context": "It includes storage, servers, databases, networking, and software.",
+        "source": "Tech Overview"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "answer": "H2O is the chemical symbol for water.",
+        "context": "Water consists of two hydrogen atoms and one oxygen atom.",
+        "source": "Chemistry Basics"
+    },
+    {
+        "question": "How long should you boil pasta?",
+        "answer": "Boil pasta for 8-12 minutes depending on type.",
+        "context": "Cooking time varies by pasta thickness.",
+        "source": "Pasta Basics"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "answer": "H2O is the chemical symbol for water.",
+        "context": "Water consists of two hydrogen atoms and one oxygen atom.",
+        "source": "Chemistry Basics"
+    },
+    {
+        "question": "What is the purpose of a GPU?",
+        "answer": "A GPU accelerates rendering of images and videos.",
+        "context": "GPUs are essential for gaming and AI computations.",
+        "source": "Hardware Basics"
+    },
+    {
+        "question": "What planet is known as the Red Planet?",
+        "answer": "Mars is known as the Red Planet.",
+        "context": "Mars appears red due to iron oxide on its surface.",
+        "source": "Astronomy"
+    },
+    {
+        "question": "What is the main ingredient in pesto sauce?",
+        "answer": "Basil is the primary ingredient in traditional pesto sauce.",
+        "context": "Pesto originated in Italy and uses fresh basil leaves.",
+        "source": "Italian Cuisine"
+    },
+    {
+        "question": "Do you need a visa to visit Japan?",
+        "answer": "Visa requirements depend on nationality.",
+        "context": "Many countries have visa-free agreements with Japan.",
+        "source": "Travel Guide"
+    },
+    {
+        "question": "What is the best season to visit Italy?",
+        "answer": "Spring and autumn are ideal for visiting Italy.",
+        "context": "These seasons offer pleasant weather and fewer crowds.",
+        "source": "Travel Tips"
+    },
+    {
+        "question": "What year did World War II end?",
+        "answer": "World War II ended in 1945.",
+        "context": "The war concluded after the surrender of Japan.",
+        "source": "World History"
+    },
+    {
+        "question": "How long should you boil pasta?",
+        "answer": "Boil pasta for 8-12 minutes depending on type.",
+        "context": "Cooking time varies by pasta thickness.",
+        "source": "Pasta Basics"
+    },
+    {
+        "question": "Who discovered America?",
+        "answer": "Christopher Columbus is credited with discovering America in 1492.",
+        "context": "Though indigenous peoples lived there long before.",
+        "source": "Exploration History"
+    },
+    {
+        "question": "What is a balanced diet?",
+        "answer": "A balanced diet includes carbohydrates, proteins, fats, vitamins, and minerals.",
+        "context": "It promotes overall health and well-being.",
+        "source": "Nutrition"
+    },
+    {
+        "question": "What is e-learning?",
+        "answer": "E-learning refers to education delivered via digital platforms.",
+        "context": "It allows flexible and remote learning opportunities.",
+        "source": "Modern Education"
+    },
+    {
+        "question": "What is BMI?",
+        "answer": "BMI stands for Body Mass Index, a measure of body fat based on height and weight.",
+        "context": "It helps assess healthy weight range.",
+        "source": "Medical Basics"
+    },
+    {
+        "question": "What is lifelong learning?",
+        "answer": "Lifelong learning is the ongoing pursuit of knowledge for personal or professional reasons.",
+        "context": "It enhances skills and adaptability.",
+        "source": "Education Concepts"
+    },
+    {
+        "question": "What year did World War II end?",
+        "answer": "World War II ended in 1945.",
+        "context": "The war concluded after the surrender of Japan.",
+        "source": "World History"
+    },
+    {
+        "question": "Do you need a visa to visit Japan?",
+        "answer": "Visa requirements depend on nationality.",
+        "context": "Many countries have visa-free agreements with Japan.",
+        "source": "Travel Guide"
+    },
+    {
+        "question": "What is photosynthesis?",
+        "answer": "Photosynthesis is the process by which plants make food using sunlight.",
+        "context": "It converts carbon dioxide and water into glucose and oxygen.",
+        "source": "Biology"
+    },
+    {
+        "question": "Who was the first President of the United States?",
+        "answer": "George Washington was the first President.",
+        "context": "He served from 1789 to 1797.",
+        "source": "American History"
+    },
+    {
+        "question": "Who discovered America?",
+        "answer": "Christopher Columbus is credited with discovering America in 1492.",
+        "context": "Though indigenous peoples lived there long before.",
+        "source": "Exploration History"
+    },
+    {
+        "question": "What is BMI?",
+        "answer": "BMI stands for Body Mass Index, a measure of body fat based on height and weight.",
+        "context": "It helps assess healthy weight range.",
+        "source": "Medical Basics"
+    },
+    {
+        "question": "What is cloud computing?",
+        "answer": "Cloud computing delivers services over the internet.",
+        "context": "It includes storage, servers, databases, networking, and software.",
+        "source": "Tech Overview"
+    },
+    {
+        "question": "What is photosynthesis?",
+        "answer": "Photosynthesis is the process by which plants make food using sunlight.",
+        "context": "It converts carbon dioxide and water into glucose and oxygen.",
+        "source": "Biology"
+    },
+    {
+        "question": "What year did World War II end?",
+        "answer": "World War II ended in 1945.",
+        "context": "The war concluded after the surrender of Japan.",
+        "source": "World History"
+    },
+    {
+        "question": "What does HTTP stand for?",
+        "answer": "HyperText Transfer Protocol.",
+        "context": "HTTP is the foundation of data communication on the web.",
+        "source": "Web Standards"
+    },
+    {
+        "question": "How much water should an adult drink daily?",
+        "answer": "About 2-3 liters of water per day.",
+        "context": "Hydration needs vary by activity and climate.",
+        "source": "Health Tips"
+    },
+    {
+        "question": "What is e-learning?",
+        "answer": "E-learning refers to education delivered via digital platforms.",
+        "context": "It allows flexible and remote learning opportunities.",
+        "source": "Modern Education"
+    },
+    {
+        "question": "What planet is known as the Red Planet?",
+        "answer": "Mars is known as the Red Planet.",
+        "context": "Mars appears red due to iron oxide on its surface.",
+        "source": "Astronomy"
+    },
+    {
+        "question": "What is the best season to visit Italy?",
+        "answer": "Spring and autumn are ideal for visiting Italy.",
+        "context": "These seasons offer pleasant weather and fewer crowds.",
+        "source": "Travel Tips"
+    },
+    {
+        "question": "What is e-learning?",
+        "answer": "E-learning refers to education delivered via digital platforms.",
+        "context": "It allows flexible and remote learning opportunities.",
+        "source": "Modern Education"
+    },
+    {
+        "question": "What is the capital of France?",
+        "answer": "Paris is the capital of France.",
+        "context": "It is known for the Eiffel Tower and rich culture.",
+        "source": "Geography"
+    },
+    {
+        "question": "What is STEM?",
+        "answer": "STEM stands for Science, Technology, Engineering, and Mathematics.",
+        "context": "It emphasizes technical and analytical skills.",
+        "source": "Academic Fields"
+    },
+    {
+        "question": "What is BMI?",
+        "answer": "BMI stands for Body Mass Index, a measure of body fat based on height and weight.",
+        "context": "It helps assess healthy weight range.",
+        "source": "Medical Basics"
+    },
+    {
+        "question": "What is STEM?",
+        "answer": "STEM stands for Science, Technology, Engineering, and Mathematics.",
+        "context": "It emphasizes technical and analytical skills.",
+        "source": "Academic Fields"
+    },
+    {
+        "question": "What is a balanced diet?",
+        "answer": "A balanced diet includes carbohydrates, proteins, fats, vitamins, and minerals.",
+        "context": "It promotes overall health and well-being.",
+        "source": "Nutrition"
+    },
+    {
+        "question": "Do you need a visa to visit Japan?",
+        "answer": "Visa requirements depend on nationality.",
+        "context": "Many countries have visa-free agreements with Japan.",
+        "source": "Travel Guide"
+    },
+    {
+        "question": "What is cloud computing?",
+        "answer": "Cloud computing delivers services over the internet.",
+        "context": "It includes storage, servers, databases, networking, and software.",
+        "source": "Tech Overview"
+    },
+    {
+        "question": "What planet is known as the Red Planet?",
+        "answer": "Mars is known as the Red Planet.",
+        "context": "Mars appears red due to iron oxide on its surface.",
+        "source": "Astronomy"
+    },
+    {
+        "question": "What is cloud computing?",
+        "answer": "Cloud computing delivers services over the internet.",
+        "context": "It includes storage, servers, databases, networking, and software.",
+        "source": "Tech Overview"
+    },
+    {
+        "question": "What is compound interest?",
+        "answer": "Compound interest is interest calculated on the initial principal and accumulated interest.",
+        "context": "It accelerates growth of investments over time.",
+        "source": "Finance Basics"
+    },
+    {
+        "question": "What is cloud computing?",
+        "answer": "Cloud computing delivers services over the internet.",
+        "context": "It includes storage, servers, databases, networking, and software.",
+        "source": "Tech Overview"
+    },
+    {
+        "question": "What is a stock?",
+        "answer": "A stock represents ownership in a company.",
+        "context": "Investors buy stocks to gain returns through dividends and price appreciation.",
+        "source": "Investment Guide"
+    },
+    {
+        "question": "What is the purpose of a GPU?",
+        "answer": "A GPU accelerates rendering of images and videos.",
+        "context": "GPUs are essential for gaming and AI computations.",
+        "source": "Hardware Basics"
+    },
+    {
+        "question": "Who was the first President of the United States?",
+        "answer": "George Washington was the first President.",
+        "context": "He served from 1789 to 1797.",
+        "source": "American History"
+    },
+    {
+        "question": "What is the purpose of a GPU?",
+        "answer": "A GPU accelerates rendering of images and videos.",
+        "context": "GPUs are essential for gaming and AI computations.",
+        "source": "Hardware Basics"
+    },
+    {
+        "question": "Do you need a visa to visit Japan?",
+        "answer": "Visa requirements depend on nationality.",
+        "context": "Many countries have visa-free agreements with Japan.",
+        "source": "Travel Guide"
+    },
+    {
+        "question": "What is photosynthesis?",
+        "answer": "Photosynthesis is the process by which plants make food using sunlight.",
+        "context": "It converts carbon dioxide and water into glucose and oxygen.",
+        "source": "Biology"
+    },
+    {
+        "question": "What is STEM?",
+        "answer": "STEM stands for Science, Technology, Engineering, and Mathematics.",
+        "context": "It emphasizes technical and analytical skills.",
+        "source": "Academic Fields"
+    },
+    {
+        "question": "How much water should an adult drink daily?",
+        "answer": "About 2-3 liters of water per day.",
+        "context": "Hydration needs vary by activity and climate.",
+        "source": "Health Tips"
+    },
+    {
+        "question": "What is the best season to visit Italy?",
+        "answer": "Spring and autumn are ideal for visiting Italy.",
+        "context": "These seasons offer pleasant weather and fewer crowds.",
+        "source": "Travel Tips"
+    },
+    {
+        "question": "What is cloud computing?",
+        "answer": "Cloud computing delivers services over the internet.",
+        "context": "It includes storage, servers, databases, networking, and software.",
+        "source": "Tech Overview"
+    },
+    {
+        "question": "What is e-learning?",
+        "answer": "E-learning refers to education delivered via digital platforms.",
+        "context": "It allows flexible and remote learning opportunities.",
+        "source": "Modern Education"
+    },
+    {
+        "question": "How long should you boil pasta?",
+        "answer": "Boil pasta for 8-12 minutes depending on type.",
+        "context": "Cooking time varies by pasta thickness.",
+        "source": "Pasta Basics"
+    },
+    {
+        "question": "What is a balanced diet?",
+        "answer": "A balanced diet includes carbohydrates, proteins, fats, vitamins, and minerals.",
+        "context": "It promotes overall health and well-being.",
+        "source": "Nutrition"
+    },
+    {
+        "question": "What is a stock?",
+        "answer": "A stock represents ownership in a company.",
+        "context": "Investors buy stocks to gain returns through dividends and price appreciation.",
+        "source": "Investment Guide"
+    },
+    {
+        "question": "What is the best season to visit Italy?",
+        "answer": "Spring and autumn are ideal for visiting Italy.",
+        "context": "These seasons offer pleasant weather and fewer crowds.",
+        "source": "Travel Tips"
+    },
+    {
+        "question": "What year did World War II end?",
+        "answer": "World War II ended in 1945.",
+        "context": "The war concluded after the surrender of Japan.",
+        "source": "World History"
+    },
+    {
+        "question": "Do you need a visa to visit Japan?",
+        "answer": "Visa requirements depend on nationality.",
+        "context": "Many countries have visa-free agreements with Japan.",
+        "source": "Travel Guide"
+    },
+    {
+        "question": "What is cloud computing?",
+        "answer": "Cloud computing delivers services over the internet.",
+        "context": "It includes storage, servers, databases, networking, and software.",
+        "source": "Tech Overview"
+    },
+    {
+        "question": "What is photosynthesis?",
+        "answer": "Photosynthesis is the process by which plants make food using sunlight.",
+        "context": "It converts carbon dioxide and water into glucose and oxygen.",
+        "source": "Biology"
+    },
+    {
+        "question": "How long should you boil pasta?",
+        "answer": "Boil pasta for 8-12 minutes depending on type.",
+        "context": "Cooking time varies by pasta thickness.",
+        "source": "Pasta Basics"
+    },
+    {
+        "question": "What is inflation?",
+        "answer": "Inflation is the rate at which the general level of prices for goods and services rises.",
+        "context": "It reduces purchasing power over time.",
+        "source": "Economic Concepts"
+    },
+    {
+        "question": "What is BMI?",
+        "answer": "BMI stands for Body Mass Index, a measure of body fat based on height and weight.",
+        "context": "It helps assess healthy weight range.",
+        "source": "Medical Basics"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "answer": "H2O is the chemical symbol for water.",
+        "context": "Water consists of two hydrogen atoms and one oxygen atom.",
+        "source": "Chemistry Basics"
+    },
+    {
+        "question": "What is BMI?",
+        "answer": "BMI stands for Body Mass Index, a measure of body fat based on height and weight.",
+        "context": "It helps assess healthy weight range.",
+        "source": "Medical Basics"
+    },
+    {
+        "question": "What is the main ingredient in pesto sauce?",
+        "answer": "Basil is the primary ingredient in traditional pesto sauce.",
+        "context": "Pesto originated in Italy and uses fresh basil leaves.",
+        "source": "Italian Cuisine"
+    },
+    {
+        "question": "What year did World War II end?",
+        "answer": "World War II ended in 1945.",
+        "context": "The war concluded after the surrender of Japan.",
+        "source": "World History"
+    },
+    {
+        "question": "What year did World War II end?",
+        "answer": "World War II ended in 1945.",
+        "context": "The war concluded after the surrender of Japan.",
+        "source": "World History"
+    },
+    {
+        "question": "What year did World War II end?",
+        "answer": "World War II ended in 1945.",
+        "context": "The war concluded after the surrender of Japan.",
+        "source": "World History"
+    },
+    {
+        "question": "What does HTTP stand for?",
+        "answer": "HyperText Transfer Protocol.",
+        "context": "HTTP is the foundation of data communication on the web.",
+        "source": "Web Standards"
+    },
+    {
+        "question": "What is a stock?",
+        "answer": "A stock represents ownership in a company.",
+        "context": "Investors buy stocks to gain returns through dividends and price appreciation.",
+        "source": "Investment Guide"
+    },
+    {
+        "question": "Who was the first President of the United States?",
+        "answer": "George Washington was the first President.",
+        "context": "He served from 1789 to 1797.",
+        "source": "American History"
+    },
+    {
+        "question": "What is the capital of France?",
+        "answer": "Paris is the capital of France.",
+        "context": "It is known for the Eiffel Tower and rich culture.",
+        "source": "Geography"
+    },
+    {
+        "question": "What is e-learning?",
+        "answer": "E-learning refers to education delivered via digital platforms.",
+        "context": "It allows flexible and remote learning opportunities.",
+        "source": "Modern Education"
+    },
+    {
+        "question": "What planet is known as the Red Planet?",
+        "answer": "Mars is known as the Red Planet.",
+        "context": "Mars appears red due to iron oxide on its surface.",
+        "source": "Astronomy"
+    },
+    {
+        "question": "What is BMI?",
+        "answer": "BMI stands for Body Mass Index, a measure of body fat based on height and weight.",
+        "context": "It helps assess healthy weight range.",
+        "source": "Medical Basics"
+    },
+    {
+        "question": "What is inflation?",
+        "answer": "Inflation is the rate at which the general level of prices for goods and services rises.",
+        "context": "It reduces purchasing power over time.",
+        "source": "Economic Concepts"
+    },
+    {
+        "question": "What is a balanced diet?",
+        "answer": "A balanced diet includes carbohydrates, proteins, fats, vitamins, and minerals.",
+        "context": "It promotes overall health and well-being.",
+        "source": "Nutrition"
+    },
+    {
+        "question": "What is a stock?",
+        "answer": "A stock represents ownership in a company.",
+        "context": "Investors buy stocks to gain returns through dividends and price appreciation.",
+        "source": "Investment Guide"
+    },
+    {
+        "question": "What is lifelong learning?",
+        "answer": "Lifelong learning is the ongoing pursuit of knowledge for personal or professional reasons.",
+        "context": "It enhances skills and adaptability.",
+        "source": "Education Concepts"
+    },
+    {
+        "question": "What is e-learning?",
+        "answer": "E-learning refers to education delivered via digital platforms.",
+        "context": "It allows flexible and remote learning opportunities.",
+        "source": "Modern Education"
+    },
+    {
+        "question": "What is e-learning?",
+        "answer": "E-learning refers to education delivered via digital platforms.",
+        "context": "It allows flexible and remote learning opportunities.",
+        "source": "Modern Education"
+    },
+    {
+        "question": "What is cloud computing?",
+        "answer": "Cloud computing delivers services over the internet.",
+        "context": "It includes storage, servers, databases, networking, and software.",
+        "source": "Tech Overview"
+    },
+    {
+        "question": "What is lifelong learning?",
+        "answer": "Lifelong learning is the ongoing pursuit of knowledge for personal or professional reasons.",
+        "context": "It enhances skills and adaptability.",
+        "source": "Education Concepts"
+    },
+    {
+        "question": "Do you need a visa to visit Japan?",
+        "answer": "Visa requirements depend on nationality.",
+        "context": "Many countries have visa-free agreements with Japan.",
+        "source": "Travel Guide"
+    },
+    {
+        "question": "What is compound interest?",
+        "answer": "Compound interest is interest calculated on the initial principal and accumulated interest.",
+        "context": "It accelerates growth of investments over time.",
+        "source": "Finance Basics"
+    },
+    {
+        "question": "How much water should an adult drink daily?",
+        "answer": "About 2-3 liters of water per day.",
+        "context": "Hydration needs vary by activity and climate.",
+        "source": "Health Tips"
+    },
+    {
+        "question": "Do you need a visa to visit Japan?",
+        "answer": "Visa requirements depend on nationality.",
+        "context": "Many countries have visa-free agreements with Japan.",
+        "source": "Travel Guide"
+    },
+    {
+        "question": "What is BMI?",
+        "answer": "BMI stands for Body Mass Index, a measure of body fat based on height and weight.",
+        "context": "It helps assess healthy weight range.",
+        "source": "Medical Basics"
+    },
+    {
+        "question": "What is compound interest?",
+        "answer": "Compound interest is interest calculated on the initial principal and accumulated interest.",
+        "context": "It accelerates growth of investments over time.",
+        "source": "Finance Basics"
+    },
+    {
+        "question": "What is a stock?",
+        "answer": "A stock represents ownership in a company.",
+        "context": "Investors buy stocks to gain returns through dividends and price appreciation.",
+        "source": "Investment Guide"
+    },
+    {
+        "question": "What year did World War II end?",
+        "answer": "World War II ended in 1945.",
+        "context": "The war concluded after the surrender of Japan.",
+        "source": "World History"
+    },
+    {
+        "question": "What is the purpose of a GPU?",
+        "answer": "A GPU accelerates rendering of images and videos.",
+        "context": "GPUs are essential for gaming and AI computations.",
+        "source": "Hardware Basics"
+    },
+    {
+        "question": "How much water should an adult drink daily?",
+        "answer": "About 2-3 liters of water per day.",
+        "context": "Hydration needs vary by activity and climate.",
+        "source": "Health Tips"
+    },
+    {
+        "question": "What is the main ingredient in pesto sauce?",
+        "answer": "Basil is the primary ingredient in traditional pesto sauce.",
+        "context": "Pesto originated in Italy and uses fresh basil leaves.",
+        "source": "Italian Cuisine"
+    },
+    {
+        "question": "How long should you boil pasta?",
+        "answer": "Boil pasta for 8-12 minutes depending on type.",
+        "context": "Cooking time varies by pasta thickness.",
+        "source": "Pasta Basics"
+    },
+    {
+        "question": "How long should you boil pasta?",
+        "answer": "Boil pasta for 8-12 minutes depending on type.",
+        "context": "Cooking time varies by pasta thickness.",
+        "source": "Pasta Basics"
+    },
+    {
+        "question": "How do you make a perfect scrambled egg?",
+        "answer": "Whisk eggs with salt and cook on low heat, stirring gently.",
+        "context": "Scrambled eggs are best cooked slowly to retain moisture.",
+        "source": "Cooking Guide"
+    },
+    {
+        "question": "What is the main ingredient in pesto sauce?",
+        "answer": "Basil is the primary ingredient in traditional pesto sauce.",
+        "context": "Pesto originated in Italy and uses fresh basil leaves.",
+        "source": "Italian Cuisine"
+    },
+    {
+        "question": "What is a balanced diet?",
+        "answer": "A balanced diet includes carbohydrates, proteins, fats, vitamins, and minerals.",
+        "context": "It promotes overall health and well-being.",
+        "source": "Nutrition"
+    },
+    {
+        "question": "Who was the first President of the United States?",
+        "answer": "George Washington was the first President.",
+        "context": "He served from 1789 to 1797.",
+        "source": "American History"
+    },
+    {
+        "question": "What is compound interest?",
+        "answer": "Compound interest is interest calculated on the initial principal and accumulated interest.",
+        "context": "It accelerates growth of investments over time.",
+        "source": "Finance Basics"
+    },
+    {
+        "question": "Do you need a visa to visit Japan?",
+        "answer": "Visa requirements depend on nationality.",
+        "context": "Many countries have visa-free agreements with Japan.",
+        "source": "Travel Guide"
+    },
+    {
+        "question": "What is a stock?",
+        "answer": "A stock represents ownership in a company.",
+        "context": "Investors buy stocks to gain returns through dividends and price appreciation.",
+        "source": "Investment Guide"
+    },
+    {
+        "question": "How much water should an adult drink daily?",
+        "answer": "About 2-3 liters of water per day.",
+        "context": "Hydration needs vary by activity and climate.",
+        "source": "Health Tips"
+    },
+    {
+        "question": "What is inflation?",
+        "answer": "Inflation is the rate at which the general level of prices for goods and services rises.",
+        "context": "It reduces purchasing power over time.",
+        "source": "Economic Concepts"
+    },
+    {
+        "question": "What is a balanced diet?",
+        "answer": "A balanced diet includes carbohydrates, proteins, fats, vitamins, and minerals.",
+        "context": "It promotes overall health and well-being.",
+        "source": "Nutrition"
+    },
+    {
+        "question": "What is inflation?",
+        "answer": "Inflation is the rate at which the general level of prices for goods and services rises.",
+        "context": "It reduces purchasing power over time.",
+        "source": "Economic Concepts"
+    },
+    {
+        "question": "What is compound interest?",
+        "answer": "Compound interest is interest calculated on the initial principal and accumulated interest.",
+        "context": "It accelerates growth of investments over time.",
+        "source": "Finance Basics"
+    },
+    {
+        "question": "How long should you boil pasta?",
+        "answer": "Boil pasta for 8-12 minutes depending on type.",
+        "context": "Cooking time varies by pasta thickness.",
+        "source": "Pasta Basics"
+    },
+    {
+        "question": "Do you need a visa to visit Japan?",
+        "answer": "Visa requirements depend on nationality.",
+        "context": "Many countries have visa-free agreements with Japan.",
+        "source": "Travel Guide"
+    },
+    {
+        "question": "What planet is known as the Red Planet?",
+        "answer": "Mars is known as the Red Planet.",
+        "context": "Mars appears red due to iron oxide on its surface.",
+        "source": "Astronomy"
+    },
+    {
+        "question": "What is cloud computing?",
+        "answer": "Cloud computing delivers services over the internet.",
+        "context": "It includes storage, servers, databases, networking, and software.",
+        "source": "Tech Overview"
+    },
+    {
+        "question": "What is the best season to visit Italy?",
+        "answer": "Spring and autumn are ideal for visiting Italy.",
+        "context": "These seasons offer pleasant weather and fewer crowds.",
+        "source": "Travel Tips"
+    },
+    {
+        "question": "What is photosynthesis?",
+        "answer": "Photosynthesis is the process by which plants make food using sunlight.",
+        "context": "It converts carbon dioxide and water into glucose and oxygen.",
+        "source": "Biology"
+    },
+    {
+        "question": "Who discovered America?",
+        "answer": "Christopher Columbus is credited with discovering America in 1492.",
+        "context": "Though indigenous peoples lived there long before.",
+        "source": "Exploration History"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "answer": "H2O is the chemical symbol for water.",
+        "context": "Water consists of two hydrogen atoms and one oxygen atom.",
+        "source": "Chemistry Basics"
+    },
+    {
+        "question": "What is the purpose of a GPU?",
+        "answer": "A GPU accelerates rendering of images and videos.",
+        "context": "GPUs are essential for gaming and AI computations.",
+        "source": "Hardware Basics"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "answer": "H2O is the chemical symbol for water.",
+        "context": "Water consists of two hydrogen atoms and one oxygen atom.",
+        "source": "Chemistry Basics"
+    },
+    {
+        "question": "Who discovered America?",
+        "answer": "Christopher Columbus is credited with discovering America in 1492.",
+        "context": "Though indigenous peoples lived there long before.",
+        "source": "Exploration History"
+    },
+    {
+        "question": "Do you need a visa to visit Japan?",
+        "answer": "Visa requirements depend on nationality.",
+        "context": "Many countries have visa-free agreements with Japan.",
+        "source": "Travel Guide"
+    },
+    {
+        "question": "How much water should an adult drink daily?",
+        "answer": "About 2-3 liters of water per day.",
+        "context": "Hydration needs vary by activity and climate.",
+        "source": "Health Tips"
+    },
+    {
+        "question": "What is the purpose of a GPU?",
+        "answer": "A GPU accelerates rendering of images and videos.",
+        "context": "GPUs are essential for gaming and AI computations.",
+        "source": "Hardware Basics"
+    },
+    {
+        "question": "What is a balanced diet?",
+        "answer": "A balanced diet includes carbohydrates, proteins, fats, vitamins, and minerals.",
+        "context": "It promotes overall health and well-being.",
+        "source": "Nutrition"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "answer": "H2O is the chemical symbol for water.",
+        "context": "Water consists of two hydrogen atoms and one oxygen atom.",
+        "source": "Chemistry Basics"
+    },
+    {
+        "question": "How much water should an adult drink daily?",
+        "answer": "About 2-3 liters of water per day.",
+        "context": "Hydration needs vary by activity and climate.",
+        "source": "Health Tips"
+    },
+    {
+        "question": "Do you need a visa to visit Japan?",
+        "answer": "Visa requirements depend on nationality.",
+        "context": "Many countries have visa-free agreements with Japan.",
+        "source": "Travel Guide"
+    },
+    {
+        "question": "What is the main ingredient in pesto sauce?",
+        "answer": "Basil is the primary ingredient in traditional pesto sauce.",
+        "context": "Pesto originated in Italy and uses fresh basil leaves.",
+        "source": "Italian Cuisine"
+    },
+    {
+        "question": "What is lifelong learning?",
+        "answer": "Lifelong learning is the ongoing pursuit of knowledge for personal or professional reasons.",
+        "context": "It enhances skills and adaptability.",
+        "source": "Education Concepts"
+    },
+    {
+        "question": "What is the best season to visit Italy?",
+        "answer": "Spring and autumn are ideal for visiting Italy.",
+        "context": "These seasons offer pleasant weather and fewer crowds.",
+        "source": "Travel Tips"
+    },
+    {
+        "question": "What is a balanced diet?",
+        "answer": "A balanced diet includes carbohydrates, proteins, fats, vitamins, and minerals.",
+        "context": "It promotes overall health and well-being.",
+        "source": "Nutrition"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "answer": "H2O is the chemical symbol for water.",
+        "context": "Water consists of two hydrogen atoms and one oxygen atom.",
+        "source": "Chemistry Basics"
+    },
+    {
+        "question": "What is a balanced diet?",
+        "answer": "A balanced diet includes carbohydrates, proteins, fats, vitamins, and minerals.",
+        "context": "It promotes overall health and well-being.",
+        "source": "Nutrition"
+    },
+    {
+        "question": "What does HTTP stand for?",
+        "answer": "HyperText Transfer Protocol.",
+        "context": "HTTP is the foundation of data communication on the web.",
+        "source": "Web Standards"
+    },
+    {
+        "question": "What is the main ingredient in pesto sauce?",
+        "answer": "Basil is the primary ingredient in traditional pesto sauce.",
+        "context": "Pesto originated in Italy and uses fresh basil leaves.",
+        "source": "Italian Cuisine"
+    },
+    {
+        "question": "What is photosynthesis?",
+        "answer": "Photosynthesis is the process by which plants make food using sunlight.",
+        "context": "It converts carbon dioxide and water into glucose and oxygen.",
+        "source": "Biology"
+    },
+    {
+        "question": "What is a balanced diet?",
+        "answer": "A balanced diet includes carbohydrates, proteins, fats, vitamins, and minerals.",
+        "context": "It promotes overall health and well-being.",
+        "source": "Nutrition"
+    },
+    {
+        "question": "What is a balanced diet?",
+        "answer": "A balanced diet includes carbohydrates, proteins, fats, vitamins, and minerals.",
+        "context": "It promotes overall health and well-being.",
+        "source": "Nutrition"
+    },
+    {
+        "question": "Who discovered America?",
+        "answer": "Christopher Columbus is credited with discovering America in 1492.",
+        "context": "Though indigenous peoples lived there long before.",
+        "source": "Exploration History"
+    },
+    {
+        "question": "What year did World War II end?",
+        "answer": "World War II ended in 1945.",
+        "context": "The war concluded after the surrender of Japan.",
+        "source": "World History"
+    },
+    {
+        "question": "What is compound interest?",
+        "answer": "Compound interest is interest calculated on the initial principal and accumulated interest.",
+        "context": "It accelerates growth of investments over time.",
+        "source": "Finance Basics"
+    },
+    {
+        "question": "What is lifelong learning?",
+        "answer": "Lifelong learning is the ongoing pursuit of knowledge for personal or professional reasons.",
+        "context": "It enhances skills and adaptability.",
+        "source": "Education Concepts"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "answer": "H2O is the chemical symbol for water.",
+        "context": "Water consists of two hydrogen atoms and one oxygen atom.",
+        "source": "Chemistry Basics"
+    },
+    {
+        "question": "How much water should an adult drink daily?",
+        "answer": "About 2-3 liters of water per day.",
+        "context": "Hydration needs vary by activity and climate.",
+        "source": "Health Tips"
+    },
+    {
+        "question": "What does HTTP stand for?",
+        "answer": "HyperText Transfer Protocol.",
+        "context": "HTTP is the foundation of data communication on the web.",
+        "source": "Web Standards"
+    },
+    {
+        "question": "What is a balanced diet?",
+        "answer": "A balanced diet includes carbohydrates, proteins, fats, vitamins, and minerals.",
+        "context": "It promotes overall health and well-being.",
+        "source": "Nutrition"
+    },
+    {
+        "question": "Do you need a visa to visit Japan?",
+        "answer": "Visa requirements depend on nationality.",
+        "context": "Many countries have visa-free agreements with Japan.",
+        "source": "Travel Guide"
+    },
+    {
+        "question": "What year did World War II end?",
+        "answer": "World War II ended in 1945.",
+        "context": "The war concluded after the surrender of Japan.",
+        "source": "World History"
+    },
+    {
+        "question": "What is compound interest?",
+        "answer": "Compound interest is interest calculated on the initial principal and accumulated interest.",
+        "context": "It accelerates growth of investments over time.",
+        "source": "Finance Basics"
+    },
+    {
+        "question": "What is the main ingredient in pesto sauce?",
+        "answer": "Basil is the primary ingredient in traditional pesto sauce.",
+        "context": "Pesto originated in Italy and uses fresh basil leaves.",
+        "source": "Italian Cuisine"
+    },
+    {
+        "question": "What is BMI?",
+        "answer": "BMI stands for Body Mass Index, a measure of body fat based on height and weight.",
+        "context": "It helps assess healthy weight range.",
+        "source": "Medical Basics"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "answer": "H2O is the chemical symbol for water.",
+        "context": "Water consists of two hydrogen atoms and one oxygen atom.",
+        "source": "Chemistry Basics"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "answer": "H2O is the chemical symbol for water.",
+        "context": "Water consists of two hydrogen atoms and one oxygen atom.",
+        "source": "Chemistry Basics"
+    },
+    {
+        "question": "What is photosynthesis?",
+        "answer": "Photosynthesis is the process by which plants make food using sunlight.",
+        "context": "It converts carbon dioxide and water into glucose and oxygen.",
+        "source": "Biology"
+    },
+    {
+        "question": "What is lifelong learning?",
+        "answer": "Lifelong learning is the ongoing pursuit of knowledge for personal or professional reasons.",
+        "context": "It enhances skills and adaptability.",
+        "source": "Education Concepts"
+    },
+    {
+        "question": "What is inflation?",
+        "answer": "Inflation is the rate at which the general level of prices for goods and services rises.",
+        "context": "It reduces purchasing power over time.",
+        "source": "Economic Concepts"
+    },
+    {
+        "question": "What is lifelong learning?",
+        "answer": "Lifelong learning is the ongoing pursuit of knowledge for personal or professional reasons.",
+        "context": "It enhances skills and adaptability.",
+        "source": "Education Concepts"
+    },
+    {
+        "question": "What is inflation?",
+        "answer": "Inflation is the rate at which the general level of prices for goods and services rises.",
+        "context": "It reduces purchasing power over time.",
+        "source": "Economic Concepts"
+    },
+    {
+        "question": "What is a balanced diet?",
+        "answer": "A balanced diet includes carbohydrates, proteins, fats, vitamins, and minerals.",
+        "context": "It promotes overall health and well-being.",
+        "source": "Nutrition"
+    },
+    {
+        "question": "What year did World War II end?",
+        "answer": "World War II ended in 1945.",
+        "context": "The war concluded after the surrender of Japan.",
+        "source": "World History"
+    },
+    {
+        "question": "How much water should an adult drink daily?",
+        "answer": "About 2-3 liters of water per day.",
+        "context": "Hydration needs vary by activity and climate.",
+        "source": "Health Tips"
+    },
+    {
+        "question": "What is the main ingredient in pesto sauce?",
+        "answer": "Basil is the primary ingredient in traditional pesto sauce.",
+        "context": "Pesto originated in Italy and uses fresh basil leaves.",
+        "source": "Italian Cuisine"
+    },
+    {
+        "question": "What is the main ingredient in pesto sauce?",
+        "answer": "Basil is the primary ingredient in traditional pesto sauce.",
+        "context": "Pesto originated in Italy and uses fresh basil leaves.",
+        "source": "Italian Cuisine"
+    },
+    {
+        "question": "What is lifelong learning?",
+        "answer": "Lifelong learning is the ongoing pursuit of knowledge for personal or professional reasons.",
+        "context": "It enhances skills and adaptability.",
+        "source": "Education Concepts"
+    },
+    {
+        "question": "What is a stock?",
+        "answer": "A stock represents ownership in a company.",
+        "context": "Investors buy stocks to gain returns through dividends and price appreciation.",
+        "source": "Investment Guide"
+    },
+    {
+        "question": "What is the best season to visit Italy?",
+        "answer": "Spring and autumn are ideal for visiting Italy.",
+        "context": "These seasons offer pleasant weather and fewer crowds.",
+        "source": "Travel Tips"
+    },
+    {
+        "question": "What is lifelong learning?",
+        "answer": "Lifelong learning is the ongoing pursuit of knowledge for personal or professional reasons.",
+        "context": "It enhances skills and adaptability.",
+        "source": "Education Concepts"
+    },
+    {
+        "question": "What is inflation?",
+        "answer": "Inflation is the rate at which the general level of prices for goods and services rises.",
+        "context": "It reduces purchasing power over time.",
+        "source": "Economic Concepts"
+    },
+    {
+        "question": "Who was the first President of the United States?",
+        "answer": "George Washington was the first President.",
+        "context": "He served from 1789 to 1797.",
+        "source": "American History"
+    },
+    {
+        "question": "What is photosynthesis?",
+        "answer": "Photosynthesis is the process by which plants make food using sunlight.",
+        "context": "It converts carbon dioxide and water into glucose and oxygen.",
+        "source": "Biology"
+    },
+    {
+        "question": "What is BMI?",
+        "answer": "BMI stands for Body Mass Index, a measure of body fat based on height and weight.",
+        "context": "It helps assess healthy weight range.",
+        "source": "Medical Basics"
+    },
+    {
+        "question": "What is e-learning?",
+        "answer": "E-learning refers to education delivered via digital platforms.",
+        "context": "It allows flexible and remote learning opportunities.",
+        "source": "Modern Education"
+    },
+    {
+        "question": "What is the best season to visit Italy?",
+        "answer": "Spring and autumn are ideal for visiting Italy.",
+        "context": "These seasons offer pleasant weather and fewer crowds.",
+        "source": "Travel Tips"
+    },
+    {
+        "question": "Who was the first President of the United States?",
+        "answer": "George Washington was the first President.",
+        "context": "He served from 1789 to 1797.",
+        "source": "American History"
+    },
+    {
+        "question": "Who discovered America?",
+        "answer": "Christopher Columbus is credited with discovering America in 1492.",
+        "context": "Though indigenous peoples lived there long before.",
+        "source": "Exploration History"
+    },
+    {
+        "question": "How do you make a perfect scrambled egg?",
+        "answer": "Whisk eggs with salt and cook on low heat, stirring gently.",
+        "context": "Scrambled eggs are best cooked slowly to retain moisture.",
+        "source": "Cooking Guide"
+    },
+    {
+        "question": "Who discovered America?",
+        "answer": "Christopher Columbus is credited with discovering America in 1492.",
+        "context": "Though indigenous peoples lived there long before.",
+        "source": "Exploration History"
+    },
+    {
+        "question": "How much water should an adult drink daily?",
+        "answer": "About 2-3 liters of water per day.",
+        "context": "Hydration needs vary by activity and climate.",
+        "source": "Health Tips"
+    },
+    {
+        "question": "What is photosynthesis?",
+        "answer": "Photosynthesis is the process by which plants make food using sunlight.",
+        "context": "It converts carbon dioxide and water into glucose and oxygen.",
+        "source": "Biology"
+    },
+    {
+        "question": "What is cloud computing?",
+        "answer": "Cloud computing delivers services over the internet.",
+        "context": "It includes storage, servers, databases, networking, and software.",
+        "source": "Tech Overview"
+    },
+    {
+        "question": "How long should you boil pasta?",
+        "answer": "Boil pasta for 8-12 minutes depending on type.",
+        "context": "Cooking time varies by pasta thickness.",
+        "source": "Pasta Basics"
+    },
+    {
+        "question": "What year did World War II end?",
+        "answer": "World War II ended in 1945.",
+        "context": "The war concluded after the surrender of Japan.",
+        "source": "World History"
+    },
+    {
+        "question": "What is the capital of France?",
+        "answer": "Paris is the capital of France.",
+        "context": "It is known for the Eiffel Tower and rich culture.",
+        "source": "Geography"
+    },
+    {
+        "question": "What is STEM?",
+        "answer": "STEM stands for Science, Technology, Engineering, and Mathematics.",
+        "context": "It emphasizes technical and analytical skills.",
+        "source": "Academic Fields"
+    },
+    {
+        "question": "What does HTTP stand for?",
+        "answer": "HyperText Transfer Protocol.",
+        "context": "HTTP is the foundation of data communication on the web.",
+        "source": "Web Standards"
+    },
+    {
+        "question": "Who discovered America?",
+        "answer": "Christopher Columbus is credited with discovering America in 1492.",
+        "context": "Though indigenous peoples lived there long before.",
+        "source": "Exploration History"
+    },
+    {
+        "question": "What does HTTP stand for?",
+        "answer": "HyperText Transfer Protocol.",
+        "context": "HTTP is the foundation of data communication on the web.",
+        "source": "Web Standards"
+    },
+    {
+        "question": "Do you need a visa to visit Japan?",
+        "answer": "Visa requirements depend on nationality.",
+        "context": "Many countries have visa-free agreements with Japan.",
+        "source": "Travel Guide"
+    },
+    {
+        "question": "Do you need a visa to visit Japan?",
+        "answer": "Visa requirements depend on nationality.",
+        "context": "Many countries have visa-free agreements with Japan.",
+        "source": "Travel Guide"
+    },
+    {
+        "question": "What is the purpose of a GPU?",
+        "answer": "A GPU accelerates rendering of images and videos.",
+        "context": "GPUs are essential for gaming and AI computations.",
+        "source": "Hardware Basics"
+    },
+    {
+        "question": "What is STEM?",
+        "answer": "STEM stands for Science, Technology, Engineering, and Mathematics.",
+        "context": "It emphasizes technical and analytical skills.",
+        "source": "Academic Fields"
+    },
+    {
+        "question": "What is STEM?",
+        "answer": "STEM stands for Science, Technology, Engineering, and Mathematics.",
+        "context": "It emphasizes technical and analytical skills.",
+        "source": "Academic Fields"
+    },
+    {
+        "question": "What is e-learning?",
+        "answer": "E-learning refers to education delivered via digital platforms.",
+        "context": "It allows flexible and remote learning opportunities.",
+        "source": "Modern Education"
+    },
+    {
+        "question": "How much water should an adult drink daily?",
+        "answer": "About 2-3 liters of water per day.",
+        "context": "Hydration needs vary by activity and climate.",
+        "source": "Health Tips"
+    },
+    {
+        "question": "What is a stock?",
+        "answer": "A stock represents ownership in a company.",
+        "context": "Investors buy stocks to gain returns through dividends and price appreciation.",
+        "source": "Investment Guide"
+    },
+    {
+        "question": "What is cloud computing?",
+        "answer": "Cloud computing delivers services over the internet.",
+        "context": "It includes storage, servers, databases, networking, and software.",
+        "source": "Tech Overview"
+    },
+    {
+        "question": "What is a balanced diet?",
+        "answer": "A balanced diet includes carbohydrates, proteins, fats, vitamins, and minerals.",
+        "context": "It promotes overall health and well-being.",
+        "source": "Nutrition"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "answer": "H2O is the chemical symbol for water.",
+        "context": "Water consists of two hydrogen atoms and one oxygen atom.",
+        "source": "Chemistry Basics"
+    },
+    {
+        "question": "What is inflation?",
+        "answer": "Inflation is the rate at which the general level of prices for goods and services rises.",
+        "context": "It reduces purchasing power over time.",
+        "source": "Economic Concepts"
+    },
+    {
+        "question": "How much water should an adult drink daily?",
+        "answer": "About 2-3 liters of water per day.",
+        "context": "Hydration needs vary by activity and climate.",
+        "source": "Health Tips"
+    },
+    {
+        "question": "What is the capital of France?",
+        "answer": "Paris is the capital of France.",
+        "context": "It is known for the Eiffel Tower and rich culture.",
+        "source": "Geography"
+    },
+    {
+        "question": "How much water should an adult drink daily?",
+        "answer": "About 2-3 liters of water per day.",
+        "context": "Hydration needs vary by activity and climate.",
+        "source": "Health Tips"
+    },
+    {
+        "question": "What is compound interest?",
+        "answer": "Compound interest is interest calculated on the initial principal and accumulated interest.",
+        "context": "It accelerates growth of investments over time.",
+        "source": "Finance Basics"
+    },
+    {
+        "question": "What is inflation?",
+        "answer": "Inflation is the rate at which the general level of prices for goods and services rises.",
+        "context": "It reduces purchasing power over time.",
+        "source": "Economic Concepts"
+    },
+    {
+        "question": "What is compound interest?",
+        "answer": "Compound interest is interest calculated on the initial principal and accumulated interest.",
+        "context": "It accelerates growth of investments over time.",
+        "source": "Finance Basics"
+    },
+    {
+        "question": "What year did World War II end?",
+        "answer": "World War II ended in 1945.",
+        "context": "The war concluded after the surrender of Japan.",
+        "source": "World History"
+    },
+    {
+        "question": "Who discovered America?",
+        "answer": "Christopher Columbus is credited with discovering America in 1492.",
+        "context": "Though indigenous peoples lived there long before.",
+        "source": "Exploration History"
+    },
+    {
+        "question": "Who discovered America?",
+        "answer": "Christopher Columbus is credited with discovering America in 1492.",
+        "context": "Though indigenous peoples lived there long before.",
+        "source": "Exploration History"
+    },
+    {
+        "question": "How do you make a perfect scrambled egg?",
+        "answer": "Whisk eggs with salt and cook on low heat, stirring gently.",
+        "context": "Scrambled eggs are best cooked slowly to retain moisture.",
+        "source": "Cooking Guide"
+    },
+    {
+        "question": "What is cloud computing?",
+        "answer": "Cloud computing delivers services over the internet.",
+        "context": "It includes storage, servers, databases, networking, and software.",
+        "source": "Tech Overview"
+    },
+    {
+        "question": "What is photosynthesis?",
+        "answer": "Photosynthesis is the process by which plants make food using sunlight.",
+        "context": "It converts carbon dioxide and water into glucose and oxygen.",
+        "source": "Biology"
+    },
+    {
+        "question": "What is the main ingredient in pesto sauce?",
+        "answer": "Basil is the primary ingredient in traditional pesto sauce.",
+        "context": "Pesto originated in Italy and uses fresh basil leaves.",
+        "source": "Italian Cuisine"
+    },
+    {
+        "question": "How much water should an adult drink daily?",
+        "answer": "About 2-3 liters of water per day.",
+        "context": "Hydration needs vary by activity and climate.",
+        "source": "Health Tips"
+    },
+    {
+        "question": "What is e-learning?",
+        "answer": "E-learning refers to education delivered via digital platforms.",
+        "context": "It allows flexible and remote learning opportunities.",
+        "source": "Modern Education"
+    },
+    {
+        "question": "Who was the first President of the United States?",
+        "answer": "George Washington was the first President.",
+        "context": "He served from 1789 to 1797.",
+        "source": "American History"
+    },
+    {
+        "question": "What is the best season to visit Italy?",
+        "answer": "Spring and autumn are ideal for visiting Italy.",
+        "context": "These seasons offer pleasant weather and fewer crowds.",
+        "source": "Travel Tips"
+    },
+    {
+        "question": "What is the best season to visit Italy?",
+        "answer": "Spring and autumn are ideal for visiting Italy.",
+        "context": "These seasons offer pleasant weather and fewer crowds.",
+        "source": "Travel Tips"
+    },
+    {
+        "question": "What is BMI?",
+        "answer": "BMI stands for Body Mass Index, a measure of body fat based on height and weight.",
+        "context": "It helps assess healthy weight range.",
+        "source": "Medical Basics"
+    },
+    {
+        "question": "What is the main ingredient in pesto sauce?",
+        "answer": "Basil is the primary ingredient in traditional pesto sauce.",
+        "context": "Pesto originated in Italy and uses fresh basil leaves.",
+        "source": "Italian Cuisine"
+    },
+    {
+        "question": "What year did World War II end?",
+        "answer": "World War II ended in 1945.",
+        "context": "The war concluded after the surrender of Japan.",
+        "source": "World History"
+    },
+    {
+        "question": "What is e-learning?",
+        "answer": "E-learning refers to education delivered via digital platforms.",
+        "context": "It allows flexible and remote learning opportunities.",
+        "source": "Modern Education"
+    },
+    {
+        "question": "What is inflation?",
+        "answer": "Inflation is the rate at which the general level of prices for goods and services rises.",
+        "context": "It reduces purchasing power over time.",
+        "source": "Economic Concepts"
+    },
+    {
+        "question": "What is photosynthesis?",
+        "answer": "Photosynthesis is the process by which plants make food using sunlight.",
+        "context": "It converts carbon dioxide and water into glucose and oxygen.",
+        "source": "Biology"
+    },
+    {
+        "question": "What does HTTP stand for?",
+        "answer": "HyperText Transfer Protocol.",
+        "context": "HTTP is the foundation of data communication on the web.",
+        "source": "Web Standards"
+    },
+    {
+        "question": "What does HTTP stand for?",
+        "answer": "HyperText Transfer Protocol.",
+        "context": "HTTP is the foundation of data communication on the web.",
+        "source": "Web Standards"
+    },
+    {
+        "question": "What is BMI?",
+        "answer": "BMI stands for Body Mass Index, a measure of body fat based on height and weight.",
+        "context": "It helps assess healthy weight range.",
+        "source": "Medical Basics"
+    },
+    {
+        "question": "What is photosynthesis?",
+        "answer": "Photosynthesis is the process by which plants make food using sunlight.",
+        "context": "It converts carbon dioxide and water into glucose and oxygen.",
+        "source": "Biology"
+    },
+    {
+        "question": "How do you make a perfect scrambled egg?",
+        "answer": "Whisk eggs with salt and cook on low heat, stirring gently.",
+        "context": "Scrambled eggs are best cooked slowly to retain moisture.",
+        "source": "Cooking Guide"
+    },
+    {
+        "question": "What is photosynthesis?",
+        "answer": "Photosynthesis is the process by which plants make food using sunlight.",
+        "context": "It converts carbon dioxide and water into glucose and oxygen.",
+        "source": "Biology"
+    },
+    {
+        "question": "What year did World War II end?",
+        "answer": "World War II ended in 1945.",
+        "context": "The war concluded after the surrender of Japan.",
+        "source": "World History"
+    },
+    {
+        "question": "What is the main ingredient in pesto sauce?",
+        "answer": "Basil is the primary ingredient in traditional pesto sauce.",
+        "context": "Pesto originated in Italy and uses fresh basil leaves.",
+        "source": "Italian Cuisine"
+    },
+    {
+        "question": "What is the capital of France?",
+        "answer": "Paris is the capital of France.",
+        "context": "It is known for the Eiffel Tower and rich culture.",
+        "source": "Geography"
+    },
+    {
+        "question": "What is compound interest?",
+        "answer": "Compound interest is interest calculated on the initial principal and accumulated interest.",
+        "context": "It accelerates growth of investments over time.",
+        "source": "Finance Basics"
+    },
+    {
+        "question": "What is the purpose of a GPU?",
+        "answer": "A GPU accelerates rendering of images and videos.",
+        "context": "GPUs are essential for gaming and AI computations.",
+        "source": "Hardware Basics"
+    },
+    {
+        "question": "Who discovered America?",
+        "answer": "Christopher Columbus is credited with discovering America in 1492.",
+        "context": "Though indigenous peoples lived there long before.",
+        "source": "Exploration History"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "answer": "H2O is the chemical symbol for water.",
+        "context": "Water consists of two hydrogen atoms and one oxygen atom.",
+        "source": "Chemistry Basics"
+    },
+    {
+        "question": "What is the capital of France?",
+        "answer": "Paris is the capital of France.",
+        "context": "It is known for the Eiffel Tower and rich culture.",
+        "source": "Geography"
+    },
+    {
+        "question": "What is lifelong learning?",
+        "answer": "Lifelong learning is the ongoing pursuit of knowledge for personal or professional reasons.",
+        "context": "It enhances skills and adaptability.",
+        "source": "Education Concepts"
+    },
+    {
+        "question": "What is the purpose of a GPU?",
+        "answer": "A GPU accelerates rendering of images and videos.",
+        "context": "GPUs are essential for gaming and AI computations.",
+        "source": "Hardware Basics"
+    },
+    {
+        "question": "What is BMI?",
+        "answer": "BMI stands for Body Mass Index, a measure of body fat based on height and weight.",
+        "context": "It helps assess healthy weight range.",
+        "source": "Medical Basics"
+    },
+    {
+        "question": "What is the capital of France?",
+        "answer": "Paris is the capital of France.",
+        "context": "It is known for the Eiffel Tower and rich culture.",
+        "source": "Geography"
+    },
+    {
+        "question": "What is the purpose of a GPU?",
+        "answer": "A GPU accelerates rendering of images and videos.",
+        "context": "GPUs are essential for gaming and AI computations.",
+        "source": "Hardware Basics"
+    },
+    {
+        "question": "How do you make a perfect scrambled egg?",
+        "answer": "Whisk eggs with salt and cook on low heat, stirring gently.",
+        "context": "Scrambled eggs are best cooked slowly to retain moisture.",
+        "source": "Cooking Guide"
+    },
+    {
+        "question": "What is inflation?",
+        "answer": "Inflation is the rate at which the general level of prices for goods and services rises.",
+        "context": "It reduces purchasing power over time.",
+        "source": "Economic Concepts"
+    },
+    {
+        "question": "What is the purpose of a GPU?",
+        "answer": "A GPU accelerates rendering of images and videos.",
+        "context": "GPUs are essential for gaming and AI computations.",
+        "source": "Hardware Basics"
+    },
+    {
+        "question": "What does HTTP stand for?",
+        "answer": "HyperText Transfer Protocol.",
+        "context": "HTTP is the foundation of data communication on the web.",
+        "source": "Web Standards"
+    },
+    {
+        "question": "What is the purpose of a GPU?",
+        "answer": "A GPU accelerates rendering of images and videos.",
+        "context": "GPUs are essential for gaming and AI computations.",
+        "source": "Hardware Basics"
+    },
+    {
+        "question": "What planet is known as the Red Planet?",
+        "answer": "Mars is known as the Red Planet.",
+        "context": "Mars appears red due to iron oxide on its surface.",
+        "source": "Astronomy"
+    },
+    {
+        "question": "What is STEM?",
+        "answer": "STEM stands for Science, Technology, Engineering, and Mathematics.",
+        "context": "It emphasizes technical and analytical skills.",
+        "source": "Academic Fields"
+    },
+    {
+        "question": "How long should you boil pasta?",
+        "answer": "Boil pasta for 8-12 minutes depending on type.",
+        "context": "Cooking time varies by pasta thickness.",
+        "source": "Pasta Basics"
+    },
+    {
+        "question": "How much water should an adult drink daily?",
+        "answer": "About 2-3 liters of water per day.",
+        "context": "Hydration needs vary by activity and climate.",
+        "source": "Health Tips"
+    },
+    {
+        "question": "What is BMI?",
+        "answer": "BMI stands for Body Mass Index, a measure of body fat based on height and weight.",
+        "context": "It helps assess healthy weight range.",
+        "source": "Medical Basics"
+    },
+    {
+        "question": "What is the best season to visit Italy?",
+        "answer": "Spring and autumn are ideal for visiting Italy.",
+        "context": "These seasons offer pleasant weather and fewer crowds.",
+        "source": "Travel Tips"
+    },
+    {
+        "question": "What is the main ingredient in pesto sauce?",
+        "answer": "Basil is the primary ingredient in traditional pesto sauce.",
+        "context": "Pesto originated in Italy and uses fresh basil leaves.",
+        "source": "Italian Cuisine"
+    },
+    {
+        "question": "What planet is known as the Red Planet?",
+        "answer": "Mars is known as the Red Planet.",
+        "context": "Mars appears red due to iron oxide on its surface.",
+        "source": "Astronomy"
+    },
+    {
+        "question": "What does HTTP stand for?",
+        "answer": "HyperText Transfer Protocol.",
+        "context": "HTTP is the foundation of data communication on the web.",
+        "source": "Web Standards"
+    },
+    {
+        "question": "What is e-learning?",
+        "answer": "E-learning refers to education delivered via digital platforms.",
+        "context": "It allows flexible and remote learning opportunities.",
+        "source": "Modern Education"
+    },
+    {
+        "question": "How much water should an adult drink daily?",
+        "answer": "About 2-3 liters of water per day.",
+        "context": "Hydration needs vary by activity and climate.",
+        "source": "Health Tips"
+    },
+    {
+        "question": "What planet is known as the Red Planet?",
+        "answer": "Mars is known as the Red Planet.",
+        "context": "Mars appears red due to iron oxide on its surface.",
+        "source": "Astronomy"
+    },
+    {
+        "question": "What year did World War II end?",
+        "answer": "World War II ended in 1945.",
+        "context": "The war concluded after the surrender of Japan.",
+        "source": "World History"
+    },
+    {
+        "question": "What is compound interest?",
+        "answer": "Compound interest is interest calculated on the initial principal and accumulated interest.",
+        "context": "It accelerates growth of investments over time.",
+        "source": "Finance Basics"
+    },
+    {
+        "question": "What is the purpose of a GPU?",
+        "answer": "A GPU accelerates rendering of images and videos.",
+        "context": "GPUs are essential for gaming and AI computations.",
+        "source": "Hardware Basics"
+    },
+    {
+        "question": "What is compound interest?",
+        "answer": "Compound interest is interest calculated on the initial principal and accumulated interest.",
+        "context": "It accelerates growth of investments over time.",
+        "source": "Finance Basics"
+    },
+    {
+        "question": "Do you need a visa to visit Japan?",
+        "answer": "Visa requirements depend on nationality.",
+        "context": "Many countries have visa-free agreements with Japan.",
+        "source": "Travel Guide"
+    },
+    {
+        "question": "How do you make a perfect scrambled egg?",
+        "answer": "Whisk eggs with salt and cook on low heat, stirring gently.",
+        "context": "Scrambled eggs are best cooked slowly to retain moisture.",
+        "source": "Cooking Guide"
+    },
+    {
+        "question": "Who discovered America?",
+        "answer": "Christopher Columbus is credited with discovering America in 1492.",
+        "context": "Though indigenous peoples lived there long before.",
+        "source": "Exploration History"
+    },
+    {
+        "question": "Do you need a visa to visit Japan?",
+        "answer": "Visa requirements depend on nationality.",
+        "context": "Many countries have visa-free agreements with Japan.",
+        "source": "Travel Guide"
+    },
+    {
+        "question": "What is inflation?",
+        "answer": "Inflation is the rate at which the general level of prices for goods and services rises.",
+        "context": "It reduces purchasing power over time.",
+        "source": "Economic Concepts"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "answer": "H2O is the chemical symbol for water.",
+        "context": "Water consists of two hydrogen atoms and one oxygen atom.",
+        "source": "Chemistry Basics"
+    },
+    {
+        "question": "What is the main ingredient in pesto sauce?",
+        "answer": "Basil is the primary ingredient in traditional pesto sauce.",
+        "context": "Pesto originated in Italy and uses fresh basil leaves.",
+        "source": "Italian Cuisine"
+    },
+    {
+        "question": "What is STEM?",
+        "answer": "STEM stands for Science, Technology, Engineering, and Mathematics.",
+        "context": "It emphasizes technical and analytical skills.",
+        "source": "Academic Fields"
+    },
+    {
+        "question": "Who discovered America?",
+        "answer": "Christopher Columbus is credited with discovering America in 1492.",
+        "context": "Though indigenous peoples lived there long before.",
+        "source": "Exploration History"
+    },
+    {
+        "question": "What is a stock?",
+        "answer": "A stock represents ownership in a company.",
+        "context": "Investors buy stocks to gain returns through dividends and price appreciation.",
+        "source": "Investment Guide"
+    },
+    {
+        "question": "What is STEM?",
+        "answer": "STEM stands for Science, Technology, Engineering, and Mathematics.",
+        "context": "It emphasizes technical and analytical skills.",
+        "source": "Academic Fields"
+    },
+    {
+        "question": "What is the best season to visit Italy?",
+        "answer": "Spring and autumn are ideal for visiting Italy.",
+        "context": "These seasons offer pleasant weather and fewer crowds.",
+        "source": "Travel Tips"
+    },
+    {
+        "question": "What is e-learning?",
+        "answer": "E-learning refers to education delivered via digital platforms.",
+        "context": "It allows flexible and remote learning opportunities.",
+        "source": "Modern Education"
+    },
+    {
+        "question": "What is compound interest?",
+        "answer": "Compound interest is interest calculated on the initial principal and accumulated interest.",
+        "context": "It accelerates growth of investments over time.",
+        "source": "Finance Basics"
+    },
+    {
+        "question": "What is lifelong learning?",
+        "answer": "Lifelong learning is the ongoing pursuit of knowledge for personal or professional reasons.",
+        "context": "It enhances skills and adaptability.",
+        "source": "Education Concepts"
+    },
+    {
+        "question": "How much water should an adult drink daily?",
+        "answer": "About 2-3 liters of water per day.",
+        "context": "Hydration needs vary by activity and climate.",
+        "source": "Health Tips"
+    },
+    {
+        "question": "What planet is known as the Red Planet?",
+        "answer": "Mars is known as the Red Planet.",
+        "context": "Mars appears red due to iron oxide on its surface.",
+        "source": "Astronomy"
+    },
+    {
+        "question": "What is compound interest?",
+        "answer": "Compound interest is interest calculated on the initial principal and accumulated interest.",
+        "context": "It accelerates growth of investments over time.",
+        "source": "Finance Basics"
+    },
+    {
+        "question": "What is cloud computing?",
+        "answer": "Cloud computing delivers services over the internet.",
+        "context": "It includes storage, servers, databases, networking, and software.",
+        "source": "Tech Overview"
+    },
+    {
+        "question": "What is the capital of France?",
+        "answer": "Paris is the capital of France.",
+        "context": "It is known for the Eiffel Tower and rich culture.",
+        "source": "Geography"
+    },
+    {
+        "question": "What is a stock?",
+        "answer": "A stock represents ownership in a company.",
+        "context": "Investors buy stocks to gain returns through dividends and price appreciation.",
+        "source": "Investment Guide"
+    }
+]
