@@ -174,6 +174,7 @@ Then open `http://localhost:8000` in your browser.
 - **[RAG](docs/guides/rag.md)**: Retrieval-Augmented Generation implementation
 - **[Querying Weaviate](docs/guides/query.md)**: Query strategies and examples
 - **[Helper Scripts](docs/guides/scripts.md)**: Script documentation and usage
+- **[Optimization](docs/guides/generation_optimization.md)**: Optimizing initial configuration M1-Mac
 
 ## Usage Examples
 
